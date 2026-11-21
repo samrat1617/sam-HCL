@@ -1,0 +1,986 @@
+Transaction_ID,Show_Date,Movie_Title,Genre,Showtime_Slot,Screen_Format,Tickets_Quantity,Ticket_Price,Occupancy_Percentage,Concession_Spend,Is_Weekend_Flag,Day_Type,Ticket_Revenue,Concession_Revenue,Combined_Revenue,Group_Band
+T00001,2025-06-21,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,1,278.98,69.9,116.19,1,Weekend,278.98,116.19,395.17,Solo
+T00002,2025-01-13,Chasing Laughter,Comedy,Late Night,3D,2,300.89,42.4,239.92,0,Weekday,601.78,239.92,841.7,Couple
+T00003,2025-06-17,Starlight Odyssey,Sci-Fi,Matinee,3D,1,340.01,61.9,0.0,0,Weekday,340.01,0.0,340.01,Solo
+T00004,2026-10-04,Cosmic Horizon,Sci-Fi,Late Night,3D,1,347.39,57.6,132.28,1,Weekend,347.39,132.28,479.67,Solo
+T00005,2026-08-19,Turbo Drift,Action,Matinee,Standard 2D,3,242.09,45.2,331.6,0,Weekday,726.27,331.6,1057.87,Small Group
+T00006,2025-11-17,Office Mayhem,Comedy,Late Night,3D,2,297.18,79.0,237.32,0,Weekday,594.36,237.32,831.68,Couple
+T00007,2025-11-15,Pixel Kingdom,Animation,Evening,IMAX,3,405.89,96.6,254.48,1,Weekend,1217.67,254.48,1472.15,Small Group
+T00008,2026-09-05,Office Mayhem,Comedy,Evening,3D,1,307.91,87.4,177.86,1,Weekend,307.91,177.86,485.77,Solo
+T00009,2025-11-25,The Secret Reef,Animation,Evening,IMAX,2,382.81,96.3,152.35,0,Weekday,765.62,152.35,917.97,Couple
+T00010,2026-07-04,Chasing Laughter,Comedy,Late Night,3D,4,280.03,85.9,599.6,1,Weekend,1120.12,599.6,1719.72,Small Group
+T00011,2026-02-23,The Secret Reef,Animation,Evening,IMAX,2,431.66,80.8,0.0,0,Weekday,863.32,0.0,863.32,Couple
+T00012,2026-08-29,Whispers in the Rain,Drama,Evening,IMAX,3,490.07,86.3,0.0,1,Weekend,1470.21,0.0,1470.21,Small Group
+T00013,2025-04-05,Chasing Laughter,Comedy,Matinee,Standard 2D,3,173.72,60.7,406.96,1,Weekend,521.16,406.96,928.12,Small Group
+T00014,2026-08-04,Cosmic Horizon,Sci-Fi,Late Night,IMAX,4,478.06,62.1,312.33,0,Weekday,1912.24,312.33,2224.57,Small Group
+T00015,2025-11-14,Chasing Laughter,Comedy,Evening,Standard 2D,2,209.35,54.2,239.95,0,Weekday,418.7,239.95,658.65,Couple
+T00016,2025-08-24,Cosmic Horizon,Sci-Fi,Late Night,IMAX,3,435.75,81.5,296.88,1,Weekend,1307.25,296.88,1604.13,Small Group
+T00017,2025-11-30,Cosmic Horizon,Sci-Fi,Matinee,3D,6,364.09,72.2,1050.98,1,Weekend,2184.54,1050.98,3235.52,Large Group
+T00018,2026-01-11,Shadow Protocol,Thriller,Evening,Standard 2D,4,191.2,60.1,734.04,1,Weekend,764.8,734.04,1498.84,Small Group
+T00019,2026-04-04,Whispers in the Rain,Drama,Evening,3D,2,331.24,100.0,247.56,1,Weekend,662.48,247.56,910.04,Couple
+T00020,2025-05-17,Shadow Protocol,Thriller,Evening,IMAX,3,523.1,94.9,377.98,1,Weekend,1569.3,377.98,1947.28,Small Group
+T00021,2026-08-11,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,4,232.75,55.8,411.4,0,Weekday,931.0,411.4,1342.4,Small Group
+T00023,2026-07-01,Shadow Protocol,Thriller,Matinee,3D,3,262.67,54.7,366.41,0,Weekday,788.01,366.41,1154.42,Small Group
+T00024,2026-05-28,Pixel Kingdom,Animation,Evening,3D,1,314.69,77.2,0.0,0,Weekday,314.69,0.0,314.69,Solo
+T00025,2025-10-23,Starlight Odyssey,Sci-Fi,Evening,IMAX,1,443.38,56.4,76.07,0,Weekday,443.38,76.07,519.45,Solo
+T00026,2025-11-16,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,4,204.92,59.7,338.39,1,Weekend,819.68,338.39,1158.07,Small Group
+T00027,2026-07-26,Midnight Chase,Action,Evening,Standard 2D,2,194.1,60.8,180.73,1,Weekend,388.2,180.73,568.93,Couple
+T00028,2025-12-15,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,4,222.06,90.9,449.64,0,Weekday,888.24,449.64,1337.88,Small Group
+T00029,2025-08-17,Turbo Drift,Action,Matinee,3D,2,358.63,69.7,238.53,1,Weekend,717.26,238.53,955.79,Couple
+T00030,2025-09-27,Shadow Protocol,Thriller,Late Night,3D,3,297.72,56.9,489.21,1,Weekend,893.16,489.21,1382.37,Small Group
+T00031,2025-10-18,Shadow Protocol,Thriller,Late Night,IMAX,1,465.84,100.0,159.42,1,Weekend,465.84,159.42,625.26,Solo
+T00032,2025-06-14,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,1,290.13,68.6,171.05,1,Weekend,290.13,171.05,461.18,Solo
+T00033,2025-01-05,The Secret Reef,Animation,Matinee,3D,6,296.03,65.5,633.81,1,Weekend,1776.18,633.81,2409.99,Large Group
+T00034,2026-01-14,Office Mayhem,Comedy,Late Night,Standard 2D,5,169.52,46.4,602.74,0,Weekday,847.6,602.74,1450.34,Small Group
+T00035,2025-03-19,The Secret Reef,Animation,Evening,Standard 2D,3,162.75,48.8,449.89,0,Weekday,488.25,449.89,938.14,Small Group
+T00036,2026-02-14,Starlight Odyssey,Sci-Fi,Evening,3D,2,338.37,85.0,338.67,1,Weekend,676.74,338.67,1015.41,Couple
+T00037,2026-07-28,Midnight Chase,Action,Evening,3D,3,269.24,39.5,0.0,0,Weekday,807.72,0.0,807.72,Small Group
+T00038,2025-05-12,Shadow Protocol,Thriller,Evening,3D,3,323.99,79.0,0.0,0,Weekday,971.97,0.0,971.97,Small Group
+T00039,2026-08-24,Chasing Laughter,Comedy,Evening,IMAX,3,374.28,60.5,468.18,0,Weekday,1122.84,468.18,1591.02,Small Group
+T00040,2025-02-11,Pixel Kingdom,Animation,Evening,3D,1,329.73,61.0,136.45,0,Weekday,329.73,136.45,466.18,Solo
+T00041,2025-03-30,Whispers in the Rain,Drama,Evening,IMAX,3,470.4,99.0,359.13,1,Weekend,1411.2,359.13,1770.33,Small Group
+T00042,2026-02-06,Shadow Protocol,Thriller,Late Night,IMAX,4,378.4,60.5,599.59,0,Weekday,1513.6,599.59,2113.19,Small Group
+T00043,2025-10-23,Turbo Drift,Action,Evening,3D,6,332.02,64.0,809.49,0,Weekday,1992.12,809.49,2801.61,Large Group
+T00044,2025-10-22,Golden Hour,Drama,Evening,IMAX,1,489.39,61.9,134.16,0,Weekday,489.39,134.16,623.55,Solo
+T00045,2026-09-08,Shadow Protocol,Thriller,Late Night,3D,4,323.22,80.1,355.07,0,Weekday,1292.88,355.07,1647.95,Small Group
+T00046,2026-06-10,The Secret Reef,Animation,Evening,Standard 2D,3,209.35,65.4,362.77,0,Weekday,628.05,362.77,990.82,Small Group
+T00047,2026-09-29,Pixel Kingdom,Animation,Evening,3D,2,351.55,53.0,200.7,0,Weekday,703.1,200.7,903.8,Couple
+T00048,2026-02-26,Office Mayhem,Comedy,Evening,Standard 2D,1,161.59,61.1,115.32,0,Weekday,161.59,115.32,276.91,Solo
+T00049,2025-01-23,Starlight Odyssey,Sci-Fi,Evening,3D,2,330.29,52.2,0.0,0,Weekday,660.58,0.0,660.58,Couple
+T00050,2026-07-29,Echoes of Tomorrow,Sci-Fi,Late Night,3D,2,347.76,75.7,201.76,0,Weekday,695.52,201.76,897.28,Couple
+T00051,2025-05-23,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,2,166.17,61.4,200.79,0,Weekday,332.34,200.79,533.13,Couple
+T00052,2026-10-27,Whispers in the Rain,Drama,Late Night,Standard 2D,4,205.01,36.3,564.27,0,Weekday,820.04,564.27,1384.31,Small Group
+T00053,2025-05-25,Midnight Chase,Action,Matinee,IMAX,4,419.05,84.4,0.0,1,Weekend,1676.2,0.0,1676.2,Small Group
+T00054,2025-08-13,Pixel Kingdom,Animation,Matinee,3D,3,321.45,48.7,430.38,0,Weekday,964.35,430.38,1394.73,Small Group
+T00055,2026-05-18,Midnight Chase,Action,Evening,Standard 2D,5,190.26,43.5,562.64,0,Weekday,951.3,562.64,1513.94,Small Group
+T00056,2026-09-08,Midnight Chase,Action,Matinee,3D,2,300.6,56.6,284.63,0,Weekday,601.2,284.63,885.83,Couple
+T00057,2025-04-14,Cosmic Horizon,Sci-Fi,Matinee,3D,2,280.73,56.2,289.91,0,Weekday,561.46,289.91,851.37,Couple
+T00058,2025-02-08,Shadow Protocol,Thriller,Evening,3D,3,309.8,95.7,361.25,1,Weekend,929.4,361.25,1290.65,Small Group
+T00059,2025-07-17,Golden Hour,Drama,Matinee,IMAX,1,473.98,60.8,109.65,0,Weekday,473.98,109.65,583.63,Solo
+T00060,2026-10-08,Office Mayhem,Comedy,Matinee,3D,2,251.1,53.3,225.18,0,Weekday,502.2,225.18,727.38,Couple
+T00061,2026-08-02,Shadow Protocol,Thriller,Late Night,Standard 2D,2,274.84,65.9,190.89,1,Weekend,549.68,190.89,740.57,Couple
+T00062,2026-01-26,Cosmic Horizon,Sci-Fi,Matinee,IMAX,1,396.43,79.1,97.79,0,Weekday,396.43,97.79,494.22,Solo
+T00063,2025-06-28,Starlight Odyssey,Sci-Fi,Evening,IMAX,4,496.7,86.3,574.04,1,Weekend,1986.8,574.04,2560.84,Small Group
+T00064,2026-07-08,Golden Hour,Drama,Late Night,Standard 2D,2,209.91,53.6,0.0,0,Weekday,419.82,0.0,419.82,Couple
+T00065,2026-03-24,Whispers in the Rain,Drama,Late Night,Standard 2D,2,171.01,55.4,0.0,0,Weekday,342.02,0.0,342.02,Couple
+T00066,2026-05-15,Echoes of Tomorrow,Sci-Fi,Matinee,Standard 2D,1,198.95,49.2,123.43,0,Weekday,198.95,123.43,322.38,Solo
+T00067,2025-01-15,The Secret Reef,Animation,Late Night,3D,3,276.52,50.8,453.54,0,Weekday,829.56,453.54,1283.1,Small Group
+T00068,2026-09-15,Shadow Protocol,Thriller,Evening,3D,2,251.73,67.4,156.67,0,Weekday,503.46,156.67,660.13,Couple
+T00069,2026-10-31,Midnight Chase,Action,Evening,3D,4,306.69,80.9,620.17,1,Weekend,1226.76,620.17,1846.93,Small Group
+T00070,2025-10-16,The Secret Reef,Animation,Evening,IMAX,2,385.96,97.5,169.99,0,Weekday,771.92,169.99,941.91,Couple
+T00071,2026-04-23,Turbo Drift,Action,Late Night,IMAX,1,362.95,57.5,144.44,0,Weekday,362.95,144.44,507.39,Solo
+T00072,2025-08-19,Midnight Chase,Action,Evening,Standard 2D,3,170.09,48.0,444.24,0,Weekday,510.27,444.24,954.51,Small Group
+T00074,2026-02-24,Chasing Laughter,Comedy,Evening,Standard 2D,1,179.9,58.9,116.19,0,Weekday,179.9,116.19,296.09,Solo
+T00075,2025-06-06,Turbo Drift,Action,Evening,Standard 2D,2,259.98,58.1,231.41,0,Weekday,519.96,231.41,751.37,Couple
+T00076,2026-07-04,Midnight Chase,Action,Late Night,Standard 2D,2,178.46,66.4,0.0,1,Weekend,356.92,0.0,356.92,Couple
+T00077,2026-03-17,Office Mayhem,Comedy,Late Night,3D,5,265.54,49.5,0.0,0,Weekday,1327.7,0.0,1327.7,Small Group
+T00078,2025-04-07,Pixel Kingdom,Animation,Matinee,IMAX,1,478.89,61.3,85.22,0,Weekday,478.89,85.22,564.11,Solo
+T00079,2026-02-15,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,3,194.01,65.6,543.7,1,Weekend,582.03,543.7,1125.73,Small Group
+T00080,2025-10-16,The Secret Reef,Animation,Matinee,3D,1,317.2,62.9,131.48,0,Weekday,317.2,131.48,448.68,Solo
+T00081,2025-09-11,Whispers in the Rain,Drama,Matinee,IMAX,2,350.18,61.1,208.23,0,Weekday,700.36,208.23,908.59,Couple
+T00082,2025-07-15,Shadow Protocol,Thriller,Matinee,Standard 2D,2,249.4,46.2,0.0,0,Weekday,498.8,0.0,498.8,Couple
+T00083,2026-08-21,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,8,212.17,65.2,948.2,0,Weekday,1697.36,948.2,2645.56,Large Group
+T00084,2026-06-06,Starlight Odyssey,Sci-Fi,Evening,3D,2,314.24,92.4,322.09,1,Weekend,628.48,322.09,950.57,Couple
+T00085,2026-06-01,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,1,252.67,33.2,105.51,0,Weekday,252.67,105.51,358.18,Solo
+T00086,2026-09-27,Shadow Protocol,Thriller,Matinee,IMAX,2,451.78,61.0,0.0,1,Weekend,903.56,0.0,903.56,Couple
+T00087,2025-04-28,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,1,238.89,68.3,142.75,0,Weekday,238.89,142.75,381.64,Solo
+T00088,2025-06-08,Turbo Drift,Action,Late Night,Standard 2D,1,259.87,72.4,106.05,1,Weekend,259.87,106.05,365.92,Solo
+T00090,2025-08-16,Cosmic Horizon,Sci-Fi,Late Night,3D,3,350.43,68.4,298.98,1,Weekend,1051.29,298.98,1350.27,Small Group
+T00091,2025-08-04,Midnight Chase,Action,Late Night,IMAX,1,480.43,63.2,129.48,0,Weekday,480.43,129.48,609.91,Solo
+T00092,2025-01-15,Whispers in the Rain,Drama,Evening,Standard 2D,1,170.48,54.3,0.0,0,Weekday,170.48,0.0,170.48,Solo
+T00093,2025-06-06,Office Mayhem,Comedy,Matinee,Standard 2D,4,186.79,47.5,0.0,0,Weekday,747.16,0.0,747.16,Small Group
+T00094,2026-10-10,Turbo Drift,Action,Evening,Standard 2D,2,234.62,63.3,227.33,1,Weekend,469.24,227.33,696.57,Couple
+T00095,2025-09-18,Shadow Protocol,Thriller,Evening,Standard 2D,1,161.53,69.1,0.0,0,Weekday,161.53,0.0,161.53,Solo
+T00096,2025-06-06,Chasing Laughter,Comedy,Matinee,Standard 2D,2,238.06,47.1,206.53,0,Weekday,476.12,206.53,682.65,Couple
+T00097,2025-02-16,Chasing Laughter,Comedy,Evening,3D,3,316.04,84.5,323.61,1,Weekend,948.12,323.61,1271.73,Small Group
+T00098,2025-11-20,Turbo Drift,Action,Matinee,Standard 2D,2,240.94,34.3,204.27,0,Weekday,481.88,204.27,686.15,Couple
+T00099,2025-05-10,The Secret Reef,Animation,Evening,Standard 2D,2,208.76,81.3,309.71,1,Weekend,417.52,309.71,727.23,Couple
+T00100,2026-02-15,Golden Hour,Drama,Evening,IMAX,1,429.25,79.5,0.0,1,Weekend,429.25,0.0,429.25,Solo
+T00101,2025-04-05,Turbo Drift,Action,Evening,Standard 2D,3,181.32,66.7,368.55,1,Weekend,543.96,368.55,912.51,Small Group
+T00102,2026-09-19,Turbo Drift,Action,Evening,Standard 2D,2,231.21,76.1,337.73,1,Weekend,462.42,337.73,800.15,Couple
+T00103,2025-10-19,Midnight Chase,Action,Evening,Standard 2D,3,176.45,100.0,270.61,1,Weekend,529.35,270.61,799.96,Small Group
+T00105,2025-10-10,Pixel Kingdom,Animation,Matinee,IMAX,4,403.73,62.1,302.98,0,Weekday,1614.92,302.98,1917.9,Small Group
+T00106,2025-03-10,Midnight Chase,Action,Matinee,Standard 2D,3,257.21,18.0,404.99,0,Weekday,771.63,404.99,1176.62,Small Group
+T00107,2026-10-22,Chasing Laughter,Comedy,Late Night,IMAX,2,372.28,55.3,202.64,0,Weekday,744.56,202.64,947.2,Couple
+T00109,2025-01-11,The Secret Reef,Animation,Evening,IMAX,2,436.32,98.2,325.92,1,Weekend,872.64,325.92,1198.56,Couple
+T00110,2025-09-11,Pixel Kingdom,Animation,Matinee,Standard 2D,2,199.07,31.5,203.81,0,Weekday,398.14,203.81,601.95,Couple
+T00111,2026-07-04,Shadow Protocol,Thriller,Late Night,IMAX,1,474.93,89.0,84.84,1,Weekend,474.93,84.84,559.77,Solo
+T00112,2025-05-14,Midnight Chase,Action,Matinee,Standard 2D,1,182.11,46.9,0.0,0,Weekday,182.11,0.0,182.11,Solo
+T00113,2025-01-23,Chasing Laughter,Comedy,Evening,Standard 2D,4,232.92,70.9,0.0,0,Weekday,931.68,0.0,931.68,Small Group
+T00114,2025-12-12,Chasing Laughter,Comedy,Matinee,IMAX,2,420.04,53.3,242.16,0,Weekday,840.08,242.16,1082.24,Couple
+T00115,2025-10-29,Midnight Chase,Action,Evening,3D,2,295.67,58.4,267.47,0,Weekday,591.34,267.47,858.81,Couple
+T00116,2025-12-29,Cosmic Horizon,Sci-Fi,Evening,3D,3,268.61,72.8,0.0,0,Weekday,805.83,0.0,805.83,Small Group
+T00117,2026-01-31,Chasing Laughter,Comedy,Matinee,Standard 2D,3,187.88,60.9,402.19,1,Weekend,563.64,402.19,965.83,Small Group
+T00118,2025-08-06,Cosmic Horizon,Sci-Fi,Late Night,3D,15,260.06,54.2,0.0,0,Weekday,3900.9,0.0,3900.9,Large Group
+T00119,2025-05-21,Starlight Odyssey,Sci-Fi,Evening,IMAX,4,427.96,92.8,458.68,0,Weekday,1711.84,458.68,2170.52,Small Group
+T00120,2026-09-08,Midnight Chase,Action,Matinee,Standard 2D,1,249.19,52.2,112.81,0,Weekday,249.19,112.81,362.0,Solo
+T00121,2025-07-29,Chasing Laughter,Comedy,Matinee,Standard 2D,4,188.72,21.1,337.71,0,Weekday,754.88,337.71,1092.59,Small Group
+T00122,2026-09-15,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,4,192.77,54.6,385.96,0,Weekday,771.08,385.96,1157.04,Small Group
+T00124,2026-09-08,Golden Hour,Drama,Matinee,Standard 2D,13,171.56,53.4,1892.19,0,Weekday,2230.28,1892.19,4122.47,Large Group
+T00125,2026-11-14,Pixel Kingdom,Animation,Evening,IMAX,3,426.13,100.0,470.82,1,Weekend,1278.39,470.82,1749.21,Small Group
+T00126,2026-04-05,Pixel Kingdom,Animation,Late Night,Standard 2D,1,281.29,52.7,104.24,1,Weekend,281.29,104.24,385.53,Solo
+T00127,2025-12-22,Golden Hour,Drama,Evening,IMAX,2,488.7,77.9,274.53,0,Weekday,977.4,274.53,1251.93,Couple
+T00128,2025-11-20,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,3,248.28,46.3,418.42,0,Weekday,744.84,418.42,1163.26,Small Group
+T00129,2025-05-13,Whispers in the Rain,Drama,Matinee,3D,2,302.03,40.5,167.72,0,Weekday,604.06,167.72,771.78,Couple
+T00130,2025-05-07,The Secret Reef,Animation,Matinee,Standard 2D,5,211.97,56.4,627.08,0,Weekday,1059.85,627.08,1686.93,Small Group
+T00131,2025-04-16,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,2,179.06,56.1,292.82,0,Weekday,358.12,292.82,650.94,Couple
+T00132,2026-08-27,Whispers in the Rain,Drama,Late Night,Standard 2D,2,206.2,61.8,180.52,0,Weekday,412.4,180.52,592.92,Couple
+T00133,2026-01-13,Office Mayhem,Comedy,Matinee,Standard 2D,2,250.3,36.1,317.98,0,Weekday,500.6,317.98,818.58,Couple
+T00134,2025-02-20,Turbo Drift,Action,Evening,3D,2,255.59,48.5,314.55,0,Weekday,511.18,314.55,825.73,Couple
+T00135,2025-01-29,Chasing Laughter,Comedy,Late Night,IMAX,3,470.9,60.1,321.18,0,Weekday,1412.7,321.18,1733.88,Small Group
+T00136,2026-04-07,Cosmic Horizon,Sci-Fi,Evening,3D,4,287.5,68.8,0.0,0,Weekday,1150.0,0.0,1150.0,Small Group
+T00137,2025-10-23,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,3,249.95,41.6,0.0,0,Weekday,749.85,0.0,749.85,Small Group
+T00138,2025-10-24,Whispers in the Rain,Drama,Evening,Standard 2D,4,254.09,22.2,443.76,0,Weekday,1016.36,443.76,1460.12,Small Group
+T00139,2026-02-11,Whispers in the Rain,Drama,Evening,Standard 2D,5,227.09,63.6,552.97,0,Weekday,1135.45,552.97,1688.42,Small Group
+T00140,2026-09-05,Whispers in the Rain,Drama,Evening,3D,4,353.87,86.5,678.23,1,Weekend,1415.48,678.23,2093.71,Small Group
+T00141,2026-02-09,Cosmic Horizon,Sci-Fi,Evening,IMAX,1,466.98,82.2,128.87,0,Weekday,466.98,128.87,595.85,Solo
+T00142,2025-12-12,Pixel Kingdom,Animation,Matinee,IMAX,4,484.63,55.4,318.68,0,Weekday,1938.52,318.68,2257.2,Small Group
+T00143,2026-09-14,The Secret Reef,Animation,Evening,Standard 2D,2,237.51,53.8,244.9,0,Weekday,475.02,244.9,719.92,Couple
+T00144,2026-02-24,Cosmic Horizon,Sci-Fi,Matinee,3D,1,318.41,69.3,89.23,0,Weekday,318.41,89.23,407.64,Solo
+T00145,2025-07-01,Starlight Odyssey,Sci-Fi,Evening,3D,3,316.75,47.1,359.13,0,Weekday,950.25,359.13,1309.38,Small Group
+T00146,2025-01-01,Cosmic Horizon,Sci-Fi,Matinee,3D,2,343.44,49.0,231.25,0,Weekday,686.88,231.25,918.13,Couple
+T00147,2026-07-21,Chasing Laughter,Comedy,Late Night,3D,1,309.53,56.7,136.86,0,Weekday,309.53,136.86,446.39,Solo
+T00148,2026-01-06,Cosmic Horizon,Sci-Fi,Evening,3D,1,338.42,73.3,0.0,0,Weekday,338.42,0.0,338.42,Solo
+T00149,2026-10-23,Golden Hour,Drama,Evening,3D,1,305.98,68.0,0.0,0,Weekday,305.98,0.0,305.98,Solo
+T00150,2026-03-07,Chasing Laughter,Comedy,Matinee,Standard 2D,5,180.94,49.9,518.64,1,Weekend,904.7,518.64,1423.34,Small Group
+T00151,2025-11-05,Pixel Kingdom,Animation,Late Night,IMAX,1,412.22,77.0,0.0,0,Weekday,412.22,0.0,412.22,Solo
+T00152,2025-05-17,Midnight Chase,Action,Late Night,Standard 2D,2,184.65,64.0,171.94,1,Weekend,369.3,171.94,541.24,Couple
+T00153,2025-07-21,Starlight Odyssey,Sci-Fi,Evening,3D,2,308.9,46.0,175.94,0,Weekday,617.8,175.94,793.74,Couple
+T00154,2026-03-12,Whispers in the Rain,Drama,Matinee,Standard 2D,2,168.51,47.5,258.7,0,Weekday,337.02,258.7,595.72,Couple
+T00155,2025-11-09,Whispers in the Rain,Drama,Evening,3D,5,318.59,87.7,475.68,1,Weekend,1592.95,475.68,2068.63,Small Group
+T00156,2025-04-27,Echoes of Tomorrow,Sci-Fi,Matinee,IMAX,1,544.09,99.5,168.59,1,Weekend,544.09,168.59,712.68,Solo
+T00157,2026-10-28,Pixel Kingdom,Animation,Matinee,IMAX,3,488.97,64.9,360.61,0,Weekday,1466.91,360.61,1827.52,Small Group
+T00158,2026-07-29,Whispers in the Rain,Drama,Late Night,IMAX,3,447.77,45.2,226.6,0,Weekday,1343.31,226.6,1569.91,Small Group
+T00159,2025-09-01,Cosmic Horizon,Sci-Fi,Evening,3D,5,282.32,48.6,756.33,0,Weekday,1411.6,756.33,2167.93,Small Group
+T00160,2026-06-21,Starlight Odyssey,Sci-Fi,Evening,3D,3,362.87,97.1,284.75,1,Weekend,1088.61,284.75,1373.36,Small Group
+T00161,2026-08-25,Echoes of Tomorrow,Sci-Fi,Late Night,3D,4,290.89,45.4,561.76,0,Weekday,1163.56,561.76,1725.32,Small Group
+T00162,2025-03-16,Cosmic Horizon,Sci-Fi,Evening,IMAX,1,394.89,71.4,0.0,1,Weekend,394.89,0.0,394.89,Solo
+T00163,2026-01-21,Turbo Drift,Action,Evening,Standard 2D,2,162.17,71.0,176.56,0,Weekday,324.34,176.56,500.9,Couple
+T00164,2025-07-29,Midnight Chase,Action,Evening,IMAX,2,438.37,68.3,161.32,0,Weekday,876.74,161.32,1038.06,Couple
+T00165,2026-04-20,Whispers in the Rain,Drama,Late Night,IMAX,5,372.91,74.4,539.91,0,Weekday,1864.55,539.91,2404.46,Small Group
+T00166,2026-02-22,Pixel Kingdom,Animation,Matinee,3D,1,343.56,57.0,181.21,1,Weekend,343.56,181.21,524.77,Solo
+T00167,2025-12-13,The Secret Reef,Animation,Late Night,Standard 2D,1,175.27,81.7,0.0,1,Weekend,175.27,0.0,175.27,Solo
+T00168,2026-06-13,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,2,249.79,74.5,331.32,1,Weekend,499.58,331.32,830.9,Couple
+T00169,2026-10-02,Chasing Laughter,Comedy,Matinee,IMAX,1,474.41,51.3,94.36,0,Weekday,474.41,94.36,568.77,Solo
+T00170,2025-06-28,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,1,233.98,55.1,183.5,1,Weekend,233.98,183.5,417.48,Solo
+T00171,2025-07-01,Pixel Kingdom,Animation,Late Night,IMAX,6,394.3,90.7,600.15,0,Weekday,2365.8,600.15,2965.95,Large Group
+T00172,2026-10-26,Whispers in the Rain,Drama,Evening,3D,2,287.64,63.5,180.62,0,Weekday,575.28,180.62,755.9,Couple
+T00173,2025-01-25,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,3,198.5,54.8,485.9,1,Weekend,595.5,485.9,1081.4,Small Group
+T00174,2025-06-29,Echoes of Tomorrow,Sci-Fi,Late Night,IMAX,4,417.07,95.6,346.73,1,Weekend,1668.28,346.73,2015.01,Small Group
+T00175,2026-05-16,Starlight Odyssey,Sci-Fi,Evening,3D,2,364.65,93.3,211.19,1,Weekend,729.3,211.19,940.49,Couple
+T00176,2025-06-10,Turbo Drift,Action,Evening,3D,1,289.6,80.2,145.65,0,Weekday,289.6,145.65,435.25,Solo
+T00177,2025-06-26,Turbo Drift,Action,Late Night,3D,2,258.44,53.8,264.9,0,Weekday,516.88,264.9,781.78,Couple
+T00178,2025-10-12,Chasing Laughter,Comedy,Evening,Standard 2D,2,221.72,97.6,360.35,1,Weekend,443.44,360.35,803.79,Couple
+T00179,2025-03-04,Golden Hour,Drama,Matinee,IMAX,3,443.61,44.3,441.98,0,Weekday,1330.83,441.98,1772.81,Small Group
+T00180,2026-10-24,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,214.19,54.4,205.66,1,Weekend,428.38,205.66,634.04,Couple
+T00181,2026-10-28,Chasing Laughter,Comedy,Evening,IMAX,1,472.01,78.7,124.45,0,Weekday,472.01,124.45,596.46,Solo
+T00182,2025-06-05,Turbo Drift,Action,Late Night,IMAX,3,383.25,77.0,389.08,0,Weekday,1149.75,389.08,1538.83,Small Group
+T00183,2026-04-14,The Secret Reef,Animation,Late Night,Standard 2D,5,257.89,55.9,494.39,0,Weekday,1289.45,494.39,1783.84,Small Group
+T00184,2025-02-18,Cosmic Horizon,Sci-Fi,Evening,3D,4,292.5,65.0,549.78,0,Weekday,1170.0,549.78,1719.78,Small Group
+T00185,2025-03-25,Shadow Protocol,Thriller,Matinee,3D,4,279.4,46.3,547.45,0,Weekday,1117.6,547.45,1665.05,Small Group
+T00186,2025-12-27,Midnight Chase,Action,Matinee,Standard 2D,4,214.17,75.1,441.8,1,Weekend,856.68,441.8,1298.48,Small Group
+T00187,2025-05-28,Starlight Odyssey,Sci-Fi,Late Night,IMAX,2,367.6,72.2,289.26,0,Weekday,735.2,289.26,1024.46,Couple
+T00188,2026-09-22,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,201.44,34.5,520.29,0,Weekday,805.76,520.29,1326.05,Small Group
+T00189,2025-12-08,Midnight Chase,Action,Matinee,Standard 2D,1,236.24,34.1,138.18,0,Weekday,236.24,138.18,374.42,Solo
+T00190,2026-04-21,Whispers in the Rain,Drama,Matinee,3D,3,349.03,45.5,410.82,0,Weekday,1047.09,410.82,1457.91,Small Group
+T00191,2025-03-04,Whispers in the Rain,Drama,Evening,3D,3,323.13,57.9,348.84,0,Weekday,969.39,348.84,1318.23,Small Group
+T00192,2025-12-26,Whispers in the Rain,Drama,Late Night,3D,1,261.57,67.4,136.18,0,Weekday,261.57,136.18,397.75,Solo
+T00193,2026-07-15,Chasing Laughter,Comedy,Matinee,IMAX,4,444.08,65.2,524.98,0,Weekday,1776.32,524.98,2301.3,Small Group
+T00194,2025-11-23,Shadow Protocol,Thriller,Evening,3D,5,361.67,88.7,0.0,1,Weekend,1808.35,0.0,1808.35,Small Group
+T00195,2025-05-21,The Secret Reef,Animation,Evening,3D,2,340.78,68.3,292.34,0,Weekday,681.56,292.34,973.9,Couple
+T00196,2025-08-03,Chasing Laughter,Comedy,Late Night,Standard 2D,4,269.38,66.9,562.93,1,Weekend,1077.52,562.93,1640.45,Small Group
+T00197,2026-03-11,Echoes of Tomorrow,Sci-Fi,Matinee,Standard 2D,1,229.79,26.0,0.0,0,Weekday,229.79,0.0,229.79,Solo
+T00198,2025-11-14,The Secret Reef,Animation,Evening,Standard 2D,3,186.83,68.5,0.0,0,Weekday,560.49,0.0,560.49,Small Group
+T00199,2025-02-01,Midnight Chase,Action,Evening,Standard 2D,2,277.49,68.2,307.04,1,Weekend,554.98,307.04,862.02,Couple
+T00200,2026-11-01,Turbo Drift,Action,Late Night,3D,3,267.4,70.6,421.1,1,Weekend,802.2,421.1,1223.3,Small Group
+T00201,2025-10-12,Shadow Protocol,Thriller,Evening,Standard 2D,5,260.08,69.3,622.76,1,Weekend,1300.4,622.76,1923.16,Small Group
+T00202,2025-11-01,Shadow Protocol,Thriller,Matinee,Standard 2D,5,234.54,62.8,479.65,1,Weekend,1172.7,479.65,1652.35,Small Group
+T00203,2026-03-05,Whispers in the Rain,Drama,Evening,Standard 2D,4,251.96,65.9,633.9,0,Weekday,1007.84,633.9,1641.74,Small Group
+T00204,2026-04-22,Shadow Protocol,Thriller,Late Night,IMAX,2,393.57,50.9,268.7,0,Weekday,787.14,268.7,1055.84,Couple
+T00205,2025-10-13,Whispers in the Rain,Drama,Matinee,IMAX,5,379.27,63.0,415.55,0,Weekday,1896.35,415.55,2311.9,Small Group
+T00206,2025-05-24,Shadow Protocol,Thriller,Late Night,3D,1,391.61,65.6,146.18,1,Weekend,391.61,146.18,537.79,Solo
+T00207,2026-02-28,Cosmic Horizon,Sci-Fi,Matinee,IMAX,4,473.92,91.9,453.95,1,Weekend,1895.68,453.95,2349.63,Small Group
+T00208,2025-01-19,Golden Hour,Drama,Evening,IMAX,2,436.17,76.6,328.23,1,Weekend,872.34,328.23,1200.57,Couple
+T00209,2025-01-18,Shadow Protocol,Thriller,Evening,3D,1,351.6,70.0,0.0,1,Weekend,351.6,0.0,351.6,Solo
+T00210,2026-08-13,Golden Hour,Drama,Evening,Standard 2D,3,166.01,54.7,252.34,0,Weekday,498.03,252.34,750.37,Small Group
+T00211,2026-01-06,Midnight Chase,Action,Evening,IMAX,2,478.23,62.9,241.37,0,Weekday,956.46,241.37,1197.83,Couple
+T00212,2025-06-24,Midnight Chase,Action,Late Night,3D,2,317.7,52.3,216.26,0,Weekday,635.4,216.26,851.66,Couple
+T00213,2025-07-13,The Secret Reef,Animation,Evening,3D,2,301.2,75.7,0.0,1,Weekend,602.4,0.0,602.4,Couple
+T00214,2026-05-17,Chasing Laughter,Comedy,Evening,IMAX,1,490.48,91.1,0.0,1,Weekend,490.48,0.0,490.48,Solo
+T00215,2025-04-23,Starlight Odyssey,Sci-Fi,Late Night,3D,1,328.99,67.1,116.19,0,Weekday,328.99,116.19,445.18,Solo
+T00217,2025-04-24,Midnight Chase,Action,Late Night,3D,1,313.96,55.9,76.96,0,Weekday,313.96,76.96,390.92,Solo
+T00218,2025-08-10,Midnight Chase,Action,Matinee,IMAX,2,509.41,77.9,246.98,1,Weekend,1018.82,246.98,1265.8,Couple
+T00219,2026-11-09,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,1,170.62,46.3,138.22,0,Weekday,170.62,138.22,308.84,Solo
+T00220,2026-10-06,Shadow Protocol,Thriller,Late Night,3D,3,269.1,53.4,490.85,0,Weekday,807.3,490.85,1298.15,Small Group
+T00221,2025-09-21,Office Mayhem,Comedy,Matinee,3D,2,363.26,62.9,0.0,1,Weekend,726.52,0.0,726.52,Couple
+T00222,2025-02-24,Shadow Protocol,Thriller,Evening,3D,6,348.13,74.2,679.41,0,Weekday,2088.78,679.41,2768.19,Large Group
+T00223,2026-10-05,Pixel Kingdom,Animation,Late Night,IMAX,5,452.6,53.8,673.71,0,Weekday,2263.0,673.71,2936.71,Small Group
+T00224,2026-04-03,Chasing Laughter,Comedy,Matinee,Standard 2D,2,210.84,34.7,243.14,0,Weekday,421.68,243.14,664.82,Couple
+T00225,2025-06-11,Cosmic Horizon,Sci-Fi,Evening,3D,4,359.1,69.8,657.01,0,Weekday,1436.4,657.01,2093.41,Small Group
+T00226,2026-01-15,Midnight Chase,Action,Evening,Standard 2D,4,186.61,82.8,410.78,0,Weekday,746.44,410.78,1157.22,Small Group
+T00227,2025-03-28,Office Mayhem,Comedy,Evening,3D,6,341.65,63.9,0.0,0,Weekday,2049.9,0.0,2049.9,Large Group
+T00228,2025-02-24,The Secret Reef,Animation,Matinee,3D,3,296.95,54.0,494.24,0,Weekday,890.85,494.24,1385.09,Small Group
+T00229,2026-04-21,Chasing Laughter,Comedy,Matinee,IMAX,8,440.82,71.4,857.61,0,Weekday,3526.56,857.61,4384.17,Large Group
+T00230,2025-06-27,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,10,232.73,65.1,1390.02,0,Weekday,2327.3,1390.02,3717.32,Large Group
+T00231,2026-01-26,The Secret Reef,Animation,Late Night,3D,3,319.71,61.2,381.88,0,Weekday,959.13,381.88,1341.01,Small Group
+T00232,2025-12-15,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,3,174.05,46.9,444.19,0,Weekday,522.15,444.19,966.34,Small Group
+T00233,2025-01-08,Midnight Chase,Action,Evening,IMAX,2,412.01,73.1,282.66,0,Weekday,824.02,282.66,1106.68,Couple
+T00234,2025-11-09,Pixel Kingdom,Animation,Matinee,IMAX,4,486.42,66.9,668.51,1,Weekend,1945.68,668.51,2614.19,Small Group
+T00235,2026-03-19,Shadow Protocol,Thriller,Evening,IMAX,6,412.11,79.8,952.4,0,Weekday,2472.66,952.4,3425.06,Large Group
+T00236,2025-11-24,Chasing Laughter,Comedy,Matinee,IMAX,2,478.62,65.6,304.38,0,Weekday,957.24,304.38,1261.62,Couple
+T00237,2025-02-23,Starlight Odyssey,Sci-Fi,Late Night,IMAX,1,454.83,87.6,135.86,1,Weekend,454.83,135.86,590.69,Solo
+T00238,2025-08-27,Turbo Drift,Action,Late Night,Standard 2D,1,239.63,42.1,0.0,0,Weekday,239.63,0.0,239.63,Solo
+T00239,2025-08-17,Midnight Chase,Action,Evening,Standard 2D,4,250.18,85.0,673.11,1,Weekend,1000.72,673.11,1673.83,Small Group
+T00240,2026-08-02,Cosmic Horizon,Sci-Fi,Late Night,3D,3,355.63,84.6,410.23,1,Weekend,1066.89,410.23,1477.12,Small Group
+T00241,2025-02-20,Office Mayhem,Comedy,Matinee,IMAX,3,353.3,45.4,0.0,0,Weekday,1059.9,0.0,1059.9,Small Group
+T00242,2026-09-01,The Secret Reef,Animation,Evening,IMAX,2,407.92,70.4,276.99,0,Weekday,815.84,276.99,1092.83,Couple
+T00243,2026-08-27,Chasing Laughter,Comedy,Evening,Standard 2D,3,189.92,73.1,439.56,0,Weekday,569.76,439.56,1009.32,Small Group
+T00244,2025-09-21,The Secret Reef,Animation,Late Night,IMAX,2,486.94,71.2,256.93,1,Weekend,973.88,256.93,1230.81,Couple
+T00245,2026-02-22,Starlight Odyssey,Sci-Fi,Matinee,3D,2,291.37,74.3,294.01,1,Weekend,582.74,294.01,876.75,Couple
+T00246,2025-04-06,Starlight Odyssey,Sci-Fi,Evening,3D,4,285.21,82.1,659.55,1,Weekend,1140.84,659.55,1800.39,Small Group
+T00247,2025-03-29,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,6,280.29,68.0,0.0,1,Weekend,1681.74,0.0,1681.74,Large Group
+T00248,2025-03-19,Whispers in the Rain,Drama,Matinee,Standard 2D,5,233.53,45.5,390.62,0,Weekday,1167.65,390.62,1558.27,Small Group
+T00249,2025-10-15,Whispers in the Rain,Drama,Evening,3D,5,337.71,75.0,0.0,0,Weekday,1688.55,0.0,1688.55,Small Group
+T00250,2025-04-30,Shadow Protocol,Thriller,Late Night,3D,2,279.64,42.7,307.29,0,Weekday,559.28,307.29,866.57,Couple
+T00251,2026-05-06,Midnight Chase,Action,Evening,Standard 2D,2,248.74,48.0,0.0,0,Weekday,497.48,0.0,497.48,Couple
+T00252,2026-03-28,Midnight Chase,Action,Matinee,3D,4,287.28,85.6,703.27,1,Weekend,1149.12,703.27,1852.39,Small Group
+T00253,2026-05-15,Pixel Kingdom,Animation,Matinee,IMAX,5,432.14,85.2,608.85,0,Weekday,2160.7,608.85,2769.55,Small Group
+T00254,2025-06-14,Turbo Drift,Action,Matinee,IMAX,1,409.23,75.9,136.69,1,Weekend,409.23,136.69,545.92,Solo
+T00255,2025-07-01,Cosmic Horizon,Sci-Fi,Late Night,IMAX,2,404.21,83.6,172.45,0,Weekday,808.42,172.45,980.87,Couple
+T00256,2026-04-14,Chasing Laughter,Comedy,Evening,Standard 2D,1,238.44,49.7,106.58,0,Weekday,238.44,106.58,345.02,Solo
+T00257,2025-01-07,Pixel Kingdom,Animation,Matinee,Standard 2D,3,209.29,38.6,440.91,0,Weekday,627.87,440.91,1068.78,Small Group
+T00258,2025-11-26,Midnight Chase,Action,Evening,3D,2,269.9,83.5,238.75,0,Weekday,539.8,238.75,778.55,Couple
+T00259,2026-11-04,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,2,233.48,68.6,276.78,0,Weekday,466.96,276.78,743.74,Couple
+T00260,2025-05-31,Turbo Drift,Action,Matinee,Standard 2D,1,203.57,80.3,108.08,1,Weekend,203.57,108.08,311.65,Solo
+T00261,2025-03-26,Chasing Laughter,Comedy,Evening,Standard 2D,2,167.55,64.6,0.0,0,Weekday,335.1,0.0,335.1,Couple
+T00262,2025-05-27,Midnight Chase,Action,Evening,Standard 2D,5,221.79,46.8,628.13,0,Weekday,1108.95,628.13,1737.08,Small Group
+T00263,2026-09-16,Golden Hour,Drama,Evening,Standard 2D,2,226.59,61.7,265.9,0,Weekday,453.18,265.9,719.08,Couple
+T00264,2026-01-16,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,3,197.87,73.4,292.66,0,Weekday,593.61,292.66,886.27,Small Group
+T00265,2026-07-02,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,3,255.44,43.4,340.59,0,Weekday,766.32,340.59,1106.91,Small Group
+T00266,2025-10-12,Midnight Chase,Action,Evening,Standard 2D,5,277.3,71.6,904.3,1,Weekend,1386.5,904.3,2290.8,Small Group
+T00267,2025-03-23,Chasing Laughter,Comedy,Evening,3D,1,353.22,87.8,156.49,1,Weekend,353.22,156.49,509.71,Solo
+T00268,2026-05-29,Midnight Chase,Action,Evening,3D,6,322.25,59.3,822.2,0,Weekday,1933.5,822.2,2755.7,Large Group
+T00269,2026-06-07,Midnight Chase,Action,Evening,3D,3,289.31,85.5,327.6,1,Weekend,867.93,327.6,1195.53,Small Group
+T00270,2026-01-21,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,6,259.95,59.8,822.39,0,Weekday,1559.7,822.39,2382.09,Large Group
+T00271,2026-04-16,The Secret Reef,Animation,Late Night,Standard 2D,5,222.24,42.1,488.53,0,Weekday,1111.2,488.53,1599.73,Small Group
+T00273,2025-04-29,Golden Hour,Drama,Evening,3D,2,297.41,77.8,293.26,0,Weekday,594.82,293.26,888.08,Couple
+T00274,2026-01-31,Turbo Drift,Action,Evening,3D,1,312.8,89.8,163.96,1,Weekend,312.8,163.96,476.76,Solo
+T00275,2026-06-16,Whispers in the Rain,Drama,Late Night,3D,2,255.46,50.8,318.98,0,Weekday,510.92,318.98,829.9,Couple
+T00276,2025-09-18,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,3,169.47,58.8,385.91,0,Weekday,508.41,385.91,894.32,Small Group
+T00277,2025-09-13,Whispers in the Rain,Drama,Matinee,IMAX,1,390.03,72.7,0.0,1,Weekend,390.03,0.0,390.03,Solo
+T00278,2025-08-14,Shadow Protocol,Thriller,Matinee,Standard 2D,1,220.06,37.3,131.96,0,Weekday,220.06,131.96,352.02,Solo
+T00279,2025-02-22,Pixel Kingdom,Animation,Matinee,3D,2,288.24,47.6,270.45,1,Weekend,576.48,270.45,846.93,Couple
+T00280,2026-05-15,Midnight Chase,Action,Late Night,3D,1,275.34,49.2,0.0,0,Weekday,275.34,0.0,275.34,Solo
+T00281,2026-05-21,Whispers in the Rain,Drama,Evening,3D,1,325.37,58.5,145.61,0,Weekday,325.37,145.61,470.98,Solo
+T00282,2025-12-30,Echoes of Tomorrow,Sci-Fi,Late Night,Standard 2D,2,258.19,49.4,264.18,0,Weekday,516.38,264.18,780.56,Couple
+T00283,2025-10-07,Chasing Laughter,Comedy,Evening,Standard 2D,1,229.11,64.3,132.68,0,Weekday,229.11,132.68,361.79,Solo
+T00284,2026-08-16,Midnight Chase,Action,Evening,IMAX,2,542.24,80.4,300.27,1,Weekend,1084.48,300.27,1384.75,Couple
+T00285,2025-06-07,Pixel Kingdom,Animation,Matinee,Standard 2D,2,233.76,65.5,232.16,1,Weekend,467.52,232.16,699.68,Couple
+T00286,2026-09-24,Turbo Drift,Action,Evening,Standard 2D,2,245.2,47.5,250.25,0,Weekday,490.4,250.25,740.65,Couple
+T00287,2025-02-28,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,5,195.66,57.5,0.0,0,Weekday,978.3,0.0,978.3,Small Group
+T00288,2025-05-08,Golden Hour,Drama,Late Night,IMAX,3,386.6,55.8,315.05,0,Weekday,1159.8,315.05,1474.85,Small Group
+T00289,2025-04-25,Midnight Chase,Action,Matinee,Standard 2D,2,254.66,54.0,239.38,0,Weekday,509.32,239.38,748.7,Couple
+T00290,2025-07-28,Cosmic Horizon,Sci-Fi,Evening,IMAX,2,451.68,75.4,246.28,0,Weekday,903.36,246.28,1149.64,Couple
+T00291,2026-06-10,Chasing Laughter,Comedy,Evening,3D,4,274.17,64.7,347.54,0,Weekday,1096.68,347.54,1444.22,Small Group
+T00292,2026-06-05,The Secret Reef,Animation,Evening,IMAX,5,412.87,66.5,572.3,0,Weekday,2064.35,572.3,2636.65,Small Group
+T00293,2026-07-06,Cosmic Horizon,Sci-Fi,Evening,IMAX,4,461.5,70.1,0.0,0,Weekday,1846.0,0.0,1846.0,Small Group
+T00294,2025-08-25,Midnight Chase,Action,Late Night,3D,3,310.18,76.9,392.89,0,Weekday,930.54,392.89,1323.43,Small Group
+T00295,2025-10-08,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,1,225.0,39.0,124.14,0,Weekday,225.0,124.14,349.14,Solo
+T00296,2025-12-25,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,2,235.38,64.8,318.24,0,Weekday,470.76,318.24,789.0,Couple
+T00297,2025-07-20,Whispers in the Rain,Drama,Evening,Standard 2D,1,245.31,73.6,0.0,1,Weekend,245.31,0.0,245.31,Solo
+T00298,2025-10-05,Chasing Laughter,Comedy,Late Night,3D,5,373.27,76.4,0.0,1,Weekend,1866.35,0.0,1866.35,Small Group
+T00299,2025-08-23,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,3,242.16,74.0,302.59,1,Weekend,726.48,302.59,1029.07,Small Group
+T00300,2026-05-09,Pixel Kingdom,Animation,Evening,Standard 2D,4,230.08,70.8,606.93,1,Weekend,920.32,606.93,1527.25,Small Group
+T00301,2025-01-04,Chasing Laughter,Comedy,Matinee,Standard 2D,2,184.4,69.5,367.94,1,Weekend,368.8,367.94,736.74,Couple
+T00302,2026-10-28,Midnight Chase,Action,Late Night,IMAX,4,418.94,96.1,411.9,0,Weekday,1675.76,411.9,2087.66,Small Group
+T00303,2026-03-18,Midnight Chase,Action,Evening,Standard 2D,2,243.67,65.8,231.25,0,Weekday,487.34,231.25,718.59,Couple
+T00304,2025-01-29,The Secret Reef,Animation,Late Night,Standard 2D,1,176.37,67.4,124.91,0,Weekday,176.37,124.91,301.28,Solo
+T00305,2025-04-19,Chasing Laughter,Comedy,Matinee,Standard 2D,2,198.32,66.8,264.97,1,Weekend,396.64,264.97,661.61,Couple
+T00306,2026-09-02,Cosmic Horizon,Sci-Fi,Evening,IMAX,3,448.84,62.8,448.68,0,Weekday,1346.52,448.68,1795.2,Small Group
+T00307,2025-03-16,The Secret Reef,Animation,Late Night,3D,2,300.75,74.3,198.85,1,Weekend,601.5,198.85,800.35,Couple
+T00308,2025-05-26,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,5,204.37,44.0,560.94,0,Weekday,1021.85,560.94,1582.79,Small Group
+T00309,2025-05-08,The Secret Reef,Animation,Evening,Standard 2D,1,249.13,51.8,86.34,0,Weekday,249.13,86.34,335.47,Solo
+T00310,2025-02-11,Whispers in the Rain,Drama,Evening,Standard 2D,3,201.13,58.1,363.3,0,Weekday,603.39,363.3,966.69,Small Group
+T00311,2025-12-22,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,3,174.52,57.1,268.73,0,Weekday,523.56,268.73,792.29,Small Group
+T00312,2025-02-10,Midnight Chase,Action,Matinee,IMAX,2,423.4,47.3,316.83,0,Weekday,846.8,316.83,1163.63,Couple
+T00313,2025-02-03,Starlight Odyssey,Sci-Fi,Evening,IMAX,4,484.81,100.0,386.97,0,Weekday,1939.24,386.97,2326.21,Small Group
+T00314,2025-01-17,Cosmic Horizon,Sci-Fi,Evening,3D,4,316.85,75.7,586.63,0,Weekday,1267.4,586.63,1854.03,Small Group
+T00315,2026-11-08,Echoes of Tomorrow,Sci-Fi,Late Night,IMAX,4,553.08,81.9,0.0,1,Weekend,2212.32,0.0,2212.32,Small Group
+T00316,2025-06-02,Turbo Drift,Action,Evening,Standard 2D,5,163.6,60.1,643.43,0,Weekday,818.0,643.43,1461.43,Small Group
+T00317,2026-01-13,Starlight Odyssey,Sci-Fi,Matinee,3D,4,322.42,66.4,462.51,0,Weekday,1289.68,462.51,1752.19,Small Group
+T00318,2026-08-11,Chasing Laughter,Comedy,Matinee,IMAX,2,390.15,84.9,292.18,0,Weekday,780.3,292.18,1072.48,Couple
+T00319,2026-08-22,Office Mayhem,Comedy,Evening,Standard 2D,4,232.79,83.2,550.79,1,Weekend,931.16,550.79,1481.95,Small Group
+T00320,2026-09-21,Chasing Laughter,Comedy,Evening,IMAX,2,398.84,75.5,202.45,0,Weekday,797.68,202.45,1000.13,Couple
+T00321,2025-12-08,Turbo Drift,Action,Late Night,Standard 2D,2,252.32,65.7,231.25,0,Weekday,504.64,231.25,735.89,Couple
+T00322,2025-01-27,The Secret Reef,Animation,Evening,Standard 2D,1,180.66,60.7,121.87,0,Weekday,180.66,121.87,302.53,Solo
+T00323,2025-10-14,Pixel Kingdom,Animation,Late Night,Standard 2D,4,247.41,53.2,392.19,0,Weekday,989.64,392.19,1381.83,Small Group
+T00324,2026-10-08,Whispers in the Rain,Drama,Late Night,Standard 2D,13,163.05,60.0,0.0,0,Weekday,2119.65,0.0,2119.65,Large Group
+T00325,2025-06-17,Pixel Kingdom,Animation,Evening,3D,2,260.0,61.4,0.0,0,Weekday,520.0,0.0,520.0,Couple
+T00326,2026-09-02,Midnight Chase,Action,Late Night,IMAX,4,469.65,38.1,380.47,0,Weekday,1878.6,380.47,2259.07,Small Group
+T00327,2025-09-25,Office Mayhem,Comedy,Late Night,3D,5,319.36,49.8,0.0,0,Weekday,1596.8,0.0,1596.8,Small Group
+T00328,2026-03-31,Pixel Kingdom,Animation,Evening,IMAX,1,454.61,83.3,88.87,0,Weekday,454.61,88.87,543.48,Solo
+T00329,2026-02-05,Office Mayhem,Comedy,Matinee,IMAX,2,379.32,68.4,210.96,0,Weekday,758.64,210.96,969.6,Couple
+T00330,2026-04-21,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,213.71,75.1,0.0,0,Weekday,854.84,0.0,854.84,Small Group
+T00331,2026-09-26,Echoes of Tomorrow,Sci-Fi,Evening,3D,2,368.42,77.2,170.99,1,Weekend,736.84,170.99,907.83,Couple
+T00333,2026-07-12,Pixel Kingdom,Animation,Late Night,Standard 2D,3,237.41,83.0,407.28,1,Weekend,712.23,407.28,1119.51,Small Group
+T00334,2026-07-30,Starlight Odyssey,Sci-Fi,Evening,3D,1,324.38,68.2,0.0,0,Weekday,324.38,0.0,324.38,Solo
+T00335,2025-05-10,Starlight Odyssey,Sci-Fi,Late Night,IMAX,2,535.76,86.3,258.31,1,Weekend,1071.52,258.31,1329.83,Couple
+T00336,2025-12-29,Turbo Drift,Action,Evening,Standard 2D,4,233.55,69.8,396.7,0,Weekday,934.2,396.7,1330.9,Small Group
+T00337,2025-10-19,Cosmic Horizon,Sci-Fi,Matinee,3D,3,281.05,51.4,503.78,1,Weekend,843.15,503.78,1346.93,Small Group
+T00338,2026-01-06,Turbo Drift,Action,Late Night,3D,4,344.42,42.9,558.11,0,Weekday,1377.68,558.11,1935.79,Small Group
+T00339,2025-01-29,Starlight Odyssey,Sci-Fi,Evening,3D,5,275.59,53.5,472.34,0,Weekday,1377.95,472.34,1850.29,Small Group
+T00340,2025-05-29,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,171.55,71.9,572.66,0,Weekday,686.2,572.66,1258.86,Small Group
+T00341,2025-10-23,Shadow Protocol,Thriller,Evening,Standard 2D,3,192.61,55.3,492.17,0,Weekday,577.83,492.17,1070.0,Small Group
+T00342,2025-01-11,Whispers in the Rain,Drama,Matinee,Standard 2D,1,207.99,85.3,109.68,1,Weekend,207.99,109.68,317.67,Solo
+T00343,2026-05-27,Pixel Kingdom,Animation,Evening,Standard 2D,3,246.8,59.0,342.36,0,Weekday,740.4,342.36,1082.76,Small Group
+T00344,2026-11-07,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,1,221.75,57.3,102.01,1,Weekend,221.75,102.01,323.76,Solo
+T00345,2025-04-23,Echoes of Tomorrow,Sci-Fi,Evening,3D,4,328.6,57.9,583.08,0,Weekday,1314.4,583.08,1897.48,Small Group
+T00346,2025-07-06,Echoes of Tomorrow,Sci-Fi,Late Night,Standard 2D,2,255.04,65.4,360.99,1,Weekend,510.08,360.99,871.07,Couple
+T00347,2025-08-15,Turbo Drift,Action,Evening,IMAX,3,428.25,80.2,284.3,0,Weekday,1284.75,284.3,1569.05,Small Group
+T00348,2025-11-06,Whispers in the Rain,Drama,Matinee,3D,2,287.0,40.2,286.51,0,Weekday,574.0,286.51,860.51,Couple
+T00349,2025-04-08,Pixel Kingdom,Animation,Evening,3D,4,307.09,72.8,327.58,0,Weekday,1228.36,327.58,1555.94,Small Group
+T00350,2025-02-24,Shadow Protocol,Thriller,Late Night,Standard 2D,5,257.93,58.0,814.43,0,Weekday,1289.65,814.43,2104.08,Small Group
+T00351,2026-09-15,The Secret Reef,Animation,Matinee,3D,2,326.6,44.3,200.02,0,Weekday,653.2,200.02,853.22,Couple
+T00352,2026-10-26,Starlight Odyssey,Sci-Fi,Matinee,IMAX,5,444.08,83.6,776.97,0,Weekday,2220.4,776.97,2997.37,Small Group
+T00353,2026-02-10,Pixel Kingdom,Animation,Matinee,Standard 2D,2,184.07,38.6,298.56,0,Weekday,368.14,298.56,666.7,Couple
+T00354,2025-03-10,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,3,234.36,33.0,477.4,0,Weekday,703.08,477.4,1180.48,Small Group
+T00355,2025-11-08,Shadow Protocol,Thriller,Late Night,IMAX,4,492.23,60.6,595.53,1,Weekend,1968.92,595.53,2564.45,Small Group
+T00356,2025-10-16,Office Mayhem,Comedy,Evening,Standard 2D,9,208.37,73.6,1053.56,0,Weekday,1875.33,1053.56,2928.89,Large Group
+T00357,2026-07-02,Turbo Drift,Action,Evening,Standard 2D,6,189.46,59.3,879.42,0,Weekday,1136.76,879.42,2016.18,Large Group
+T00358,2025-05-28,Midnight Chase,Action,Evening,Standard 2D,1,185.87,53.2,117.06,0,Weekday,185.87,117.06,302.93,Solo
+T00359,2026-04-12,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,1,175.36,57.3,128.84,1,Weekend,175.36,128.84,304.2,Solo
+T00360,2025-09-01,Cosmic Horizon,Sci-Fi,Late Night,3D,5,310.94,50.3,658.46,0,Weekday,1554.7,658.46,2213.16,Small Group
+T00361,2026-05-06,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,1,160.16,76.6,0.0,0,Weekday,160.16,0.0,160.16,Solo
+T00362,2026-05-22,Chasing Laughter,Comedy,Evening,IMAX,6,389.65,48.3,497.78,0,Weekday,2337.9,497.78,2835.68,Large Group
+T00363,2025-12-31,Chasing Laughter,Comedy,Late Night,IMAX,6,473.4,55.4,0.0,0,Weekday,2840.4,0.0,2840.4,Large Group
+T00364,2026-04-27,Starlight Odyssey,Sci-Fi,Late Night,3D,1,315.3,76.5,116.19,0,Weekday,315.3,116.19,431.49,Solo
+T00365,2025-07-20,Echoes of Tomorrow,Sci-Fi,Evening,3D,3,345.49,97.0,271.38,1,Weekend,1036.47,271.38,1307.85,Small Group
+T00366,2025-06-03,Pixel Kingdom,Animation,Matinee,IMAX,1,444.71,53.2,143.9,0,Weekday,444.71,143.9,588.61,Solo
+T00367,2026-03-26,Office Mayhem,Comedy,Evening,Standard 2D,2,178.99,61.4,308.52,0,Weekday,357.98,308.52,666.5,Couple
+T00368,2026-05-16,Chasing Laughter,Comedy,Late Night,IMAX,1,493.28,84.6,111.09,1,Weekend,493.28,111.09,604.37,Solo
+T00369,2025-03-14,Midnight Chase,Action,Late Night,IMAX,8,441.84,64.6,1113.2,0,Weekday,3534.72,1113.2,4647.92,Large Group
+T00370,2025-10-23,Pixel Kingdom,Animation,Late Night,3D,2,287.53,76.4,312.75,0,Weekday,575.06,312.75,887.81,Couple
+T00371,2025-01-17,Starlight Odyssey,Sci-Fi,Late Night,3D,2,332.23,59.1,231.25,0,Weekday,664.46,231.25,895.71,Couple
+T00372,2026-10-03,Pixel Kingdom,Animation,Evening,Standard 2D,6,235.45,88.6,1077.07,1,Weekend,1412.7,1077.07,2489.77,Large Group
+T00373,2025-08-05,Office Mayhem,Comedy,Late Night,Standard 2D,4,176.94,50.2,389.96,0,Weekday,707.76,389.96,1097.72,Small Group
+T00374,2025-03-02,Shadow Protocol,Thriller,Late Night,IMAX,4,503.92,54.6,537.15,1,Weekend,2015.68,537.15,2552.83,Small Group
+T00375,2026-09-08,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,3,242.56,44.7,349.84,0,Weekday,727.68,349.84,1077.52,Small Group
+T00376,2025-02-11,Midnight Chase,Action,Evening,IMAX,4,358.4,62.2,0.0,0,Weekday,1433.6,0.0,1433.6,Small Group
+T00377,2025-01-25,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,2,225.8,61.0,338.07,1,Weekend,451.6,338.07,789.67,Couple
+T00378,2025-02-08,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,234.74,85.9,700.74,1,Weekend,938.96,700.74,1639.7,Small Group
+T00379,2025-05-11,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,6,285.78,68.3,732.08,1,Weekend,1714.68,732.08,2446.76,Large Group
+T00380,2026-05-13,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,210.18,43.7,245.42,0,Weekday,420.36,245.42,665.78,Couple
+T00381,2025-08-17,Whispers in the Rain,Drama,Evening,3D,3,323.18,96.9,0.0,1,Weekend,969.54,0.0,969.54,Small Group
+T00382,2025-04-18,Shadow Protocol,Thriller,Late Night,Standard 2D,4,231.9,30.6,559.96,0,Weekday,927.6,559.96,1487.56,Small Group
+T00383,2025-06-21,Whispers in the Rain,Drama,Matinee,IMAX,5,419.44,70.1,717.48,1,Weekend,2097.2,717.48,2814.68,Small Group
+T00384,2026-03-11,Midnight Chase,Action,Matinee,3D,4,289.19,44.4,423.79,0,Weekday,1156.76,423.79,1580.55,Small Group
+T00385,2026-04-23,Chasing Laughter,Comedy,Evening,Standard 2D,2,177.72,63.8,309.16,0,Weekday,355.44,309.16,664.6,Couple
+T00386,2025-04-12,Office Mayhem,Comedy,Late Night,3D,2,362.9,81.8,245.19,1,Weekend,725.8,245.19,970.99,Couple
+T00387,2026-06-08,Golden Hour,Drama,Matinee,IMAX,1,417.6,65.7,129.38,0,Weekday,417.6,129.38,546.98,Solo
+T00388,2025-10-02,Pixel Kingdom,Animation,Late Night,3D,13,292.94,60.8,1354.85,0,Weekday,3808.22,1354.85,5163.07,Large Group
+T00389,2026-09-05,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,1,264.18,56.7,124.99,1,Weekend,264.18,124.99,389.17,Solo
+T00390,2025-02-13,Echoes of Tomorrow,Sci-Fi,Late Night,IMAX,5,457.68,66.8,477.78,0,Weekday,2288.4,477.78,2766.18,Small Group
+T00391,2025-01-17,Golden Hour,Drama,Late Night,IMAX,1,476.27,52.9,101.6,0,Weekday,476.27,101.6,577.87,Solo
+T00392,2025-11-26,Chasing Laughter,Comedy,Evening,Standard 2D,1,204.64,67.1,121.19,0,Weekday,204.64,121.19,325.83,Solo
+T00393,2026-07-23,The Secret Reef,Animation,Evening,Standard 2D,2,215.07,53.0,182.33,0,Weekday,430.14,182.33,612.47,Couple
+T00394,2026-05-12,Chasing Laughter,Comedy,Evening,3D,11,353.89,52.5,1011.73,0,Weekday,3892.79,1011.73,4904.52,Large Group
+T00395,2025-01-12,Shadow Protocol,Thriller,Evening,Standard 2D,1,199.72,75.5,0.0,1,Weekend,199.72,0.0,199.72,Solo
+T00396,2025-11-14,Cosmic Horizon,Sci-Fi,Matinee,IMAX,2,416.46,37.0,277.67,0,Weekday,832.92,277.67,1110.59,Couple
+T00397,2026-08-15,Midnight Chase,Action,Matinee,Standard 2D,2,210.34,78.7,0.0,1,Weekend,420.68,0.0,420.68,Couple
+T00398,2025-08-04,Echoes of Tomorrow,Sci-Fi,Matinee,IMAX,2,475.94,69.6,0.0,0,Weekday,951.88,0.0,951.88,Couple
+T00399,2025-12-05,Turbo Drift,Action,Evening,3D,1,336.01,70.0,147.81,0,Weekday,336.01,147.81,483.82,Solo
+T00400,2026-10-23,Shadow Protocol,Thriller,Matinee,Standard 2D,4,179.54,25.5,521.48,0,Weekday,718.16,521.48,1239.64,Small Group
+T00401,2025-03-22,Midnight Chase,Action,Evening,Standard 2D,3,187.32,66.6,443.33,1,Weekend,561.96,443.33,1005.29,Small Group
+T00402,2026-04-30,Starlight Odyssey,Sci-Fi,Late Night,3D,1,256.28,55.5,82.19,0,Weekday,256.28,82.19,338.47,Solo
+T00403,2026-01-09,Chasing Laughter,Comedy,Evening,IMAX,4,444.2,70.8,477.49,0,Weekday,1776.8,477.49,2254.29,Small Group
+T00404,2025-07-19,Turbo Drift,Action,Evening,IMAX,6,473.59,69.7,899.5,1,Weekend,2841.54,899.5,3741.04,Large Group
+T00405,2026-06-21,Chasing Laughter,Comedy,Evening,Standard 2D,3,239.23,59.2,269.15,1,Weekend,717.69,269.15,986.84,Small Group
+T00406,2026-04-11,Shadow Protocol,Thriller,Late Night,Standard 2D,3,194.6,60.6,0.0,1,Weekend,583.8,0.0,583.8,Small Group
+T00407,2025-03-30,Golden Hour,Drama,Late Night,Standard 2D,5,236.92,48.6,917.17,1,Weekend,1184.6,917.17,2101.77,Small Group
+T00408,2025-09-25,Starlight Odyssey,Sci-Fi,Late Night,3D,6,335.74,71.5,781.91,0,Weekday,2014.44,781.91,2796.35,Large Group
+T00409,2026-10-17,Golden Hour,Drama,Late Night,Standard 2D,4,271.58,69.9,0.0,1,Weekend,1086.32,0.0,1086.32,Small Group
+T00410,2026-07-25,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,199.35,51.4,331.85,1,Weekend,398.7,331.85,730.55,Couple
+T00411,2026-05-04,Echoes of Tomorrow,Sci-Fi,Late Night,3D,3,288.02,69.0,316.57,0,Weekday,864.06,316.57,1180.63,Small Group
+T00412,2026-06-22,Pixel Kingdom,Animation,Late Night,IMAX,4,454.06,74.6,0.0,0,Weekday,1816.24,0.0,1816.24,Small Group
+T00413,2025-02-16,Midnight Chase,Action,Matinee,Standard 2D,1,230.67,64.5,156.55,1,Weekend,230.67,156.55,387.22,Solo
+T00414,2025-10-15,Whispers in the Rain,Drama,Late Night,Standard 2D,2,214.93,47.5,0.0,0,Weekday,429.86,0.0,429.86,Couple
+T00415,2025-01-16,Pixel Kingdom,Animation,Matinee,3D,4,352.28,48.4,403.09,0,Weekday,1409.12,403.09,1812.21,Small Group
+T00416,2026-02-05,Turbo Drift,Action,Evening,3D,3,354.26,59.5,370.7,0,Weekday,1062.78,370.7,1433.48,Small Group
+T00417,2025-03-27,Turbo Drift,Action,Matinee,Standard 2D,2,166.93,29.0,0.0,0,Weekday,333.86,0.0,333.86,Couple
+T00418,2025-09-07,Cosmic Horizon,Sci-Fi,Evening,IMAX,3,459.83,100.0,371.67,1,Weekend,1379.49,371.67,1751.16,Small Group
+T00419,2026-01-26,Starlight Odyssey,Sci-Fi,Evening,IMAX,1,385.82,67.8,150.74,0,Weekday,385.82,150.74,536.56,Solo
+T00420,2025-12-01,Midnight Chase,Action,Evening,Standard 2D,2,200.71,59.3,0.0,0,Weekday,401.42,0.0,401.42,Couple
+T00421,2026-09-21,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,227.77,48.1,304.53,0,Weekday,911.08,304.53,1215.61,Small Group
+T00422,2026-06-03,Shadow Protocol,Thriller,Evening,3D,2,274.94,62.9,0.0,0,Weekday,549.88,0.0,549.88,Couple
+T00423,2025-05-17,The Secret Reef,Animation,Late Night,IMAX,1,486.28,100.0,89.47,1,Weekend,486.28,89.47,575.75,Solo
+T00424,2026-05-13,Pixel Kingdom,Animation,Matinee,Standard 2D,6,169.05,36.3,496.91,0,Weekday,1014.3,496.91,1511.21,Large Group
+T00425,2026-04-22,Midnight Chase,Action,Evening,3D,2,304.73,83.4,159.48,0,Weekday,609.46,159.48,768.94,Couple
+T00426,2026-08-17,Shadow Protocol,Thriller,Late Night,3D,2,278.94,54.7,0.0,0,Weekday,557.88,0.0,557.88,Couple
+T00427,2025-08-11,The Secret Reef,Animation,Late Night,Standard 2D,6,232.44,56.2,934.15,0,Weekday,1394.64,934.15,2328.79,Large Group
+T00428,2026-01-07,Turbo Drift,Action,Evening,3D,4,270.85,80.9,577.25,0,Weekday,1083.4,577.25,1660.65,Small Group
+T00429,2026-02-06,Office Mayhem,Comedy,Late Night,IMAX,3,474.91,66.3,0.0,0,Weekday,1424.73,0.0,1424.73,Small Group
+T00430,2026-03-19,Chasing Laughter,Comedy,Late Night,Standard 2D,4,203.09,43.8,302.93,0,Weekday,812.36,302.93,1115.29,Small Group
+T00431,2026-05-05,Midnight Chase,Action,Late Night,Standard 2D,1,179.8,45.8,130.45,0,Weekday,179.8,130.45,310.25,Solo
+T00432,2026-09-07,The Secret Reef,Animation,Evening,Standard 2D,4,203.8,57.2,654.31,0,Weekday,815.2,654.31,1469.51,Small Group
+T00433,2025-09-30,Cosmic Horizon,Sci-Fi,Matinee,IMAX,3,407.22,82.4,0.0,0,Weekday,1221.66,0.0,1221.66,Small Group
+T00434,2026-06-10,Chasing Laughter,Comedy,Matinee,IMAX,4,410.05,42.2,524.51,0,Weekday,1640.2,524.51,2164.71,Small Group
+T00435,2025-06-08,Turbo Drift,Action,Matinee,Standard 2D,3,240.87,39.8,270.0,1,Weekend,722.61,270.0,992.61,Small Group
+T00436,2025-06-01,The Secret Reef,Animation,Evening,IMAX,3,391.95,69.6,359.13,1,Weekend,1175.85,359.13,1534.98,Small Group
+T00438,2026-09-12,Cosmic Horizon,Sci-Fi,Matinee,3D,2,365.23,57.3,301.39,1,Weekend,730.46,301.39,1031.85,Couple
+T00439,2025-07-07,Golden Hour,Drama,Evening,3D,2,289.49,74.4,197.35,0,Weekday,578.98,197.35,776.33,Couple
+T00440,2025-04-08,Whispers in the Rain,Drama,Evening,Standard 2D,4,240.84,68.1,550.72,0,Weekday,963.36,550.72,1514.08,Small Group
+T00441,2025-05-11,Shadow Protocol,Thriller,Matinee,Standard 2D,3,224.57,53.7,296.96,1,Weekend,673.71,296.96,970.67,Small Group
+T00442,2025-06-20,Shadow Protocol,Thriller,Late Night,Standard 2D,3,190.58,47.7,329.17,0,Weekday,571.74,329.17,900.91,Small Group
+T00443,2025-07-02,The Secret Reef,Animation,Evening,3D,2,258.01,52.6,162.51,0,Weekday,516.02,162.51,678.53,Couple
+T00444,2025-12-30,The Secret Reef,Animation,Matinee,Standard 2D,3,253.26,32.7,228.85,0,Weekday,759.78,228.85,988.63,Small Group
+T00445,2025-02-08,The Secret Reef,Animation,Late Night,IMAX,4,457.62,86.0,562.85,1,Weekend,1830.48,562.85,2393.33,Small Group
+T00446,2026-06-11,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,187.91,57.6,0.0,0,Weekday,751.64,0.0,751.64,Small Group
+T00447,2026-05-12,Turbo Drift,Action,Evening,Standard 2D,10,224.64,53.3,1463.41,0,Weekday,2246.4,1463.41,3709.81,Large Group
+T00448,2026-05-31,Turbo Drift,Action,Late Night,3D,5,364.81,90.6,562.64,1,Weekend,1824.05,562.64,2386.69,Small Group
+T00449,2025-12-15,Golden Hour,Drama,Evening,3D,4,341.37,77.6,427.8,0,Weekday,1365.48,427.8,1793.28,Small Group
+T00450,2026-02-01,Turbo Drift,Action,Late Night,Standard 2D,3,241.18,83.1,0.0,1,Weekend,723.54,0.0,723.54,Small Group
+T00451,2025-06-10,The Secret Reef,Animation,Evening,Standard 2D,3,212.32,55.4,447.8,0,Weekday,636.96,447.8,1084.76,Small Group
+T00452,2025-01-16,Pixel Kingdom,Animation,Evening,IMAX,5,472.43,92.2,820.58,0,Weekday,2362.15,820.58,3182.73,Small Group
+T00453,2026-05-08,Shadow Protocol,Thriller,Matinee,Standard 2D,3,164.34,71.2,0.0,0,Weekday,493.02,0.0,493.02,Small Group
+T00454,2026-03-02,Midnight Chase,Action,Matinee,Standard 2D,4,186.1,40.0,461.36,0,Weekday,744.4,461.36,1205.76,Small Group
+T00455,2025-04-18,Whispers in the Rain,Drama,Late Night,IMAX,3,472.61,61.1,348.56,0,Weekday,1417.83,348.56,1766.39,Small Group
+T00456,2026-03-26,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,3,235.23,47.6,418.2,0,Weekday,705.69,418.2,1123.89,Small Group
+T00457,2025-11-07,Turbo Drift,Action,Evening,3D,2,251.94,52.3,200.83,0,Weekday,503.88,200.83,704.71,Couple
+T00458,2025-06-19,Midnight Chase,Action,Evening,Standard 2D,2,211.7,45.4,207.03,0,Weekday,423.4,207.03,630.43,Couple
+T00459,2026-06-30,Midnight Chase,Action,Evening,Standard 2D,6,212.96,49.3,515.34,0,Weekday,1277.76,515.34,1793.1,Large Group
+T00461,2026-02-18,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,3,200.09,48.3,310.26,0,Weekday,600.27,310.26,910.53,Small Group
+T00462,2025-09-08,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,3,189.74,49.8,399.29,0,Weekday,569.22,399.29,968.51,Small Group
+T00463,2025-05-21,Midnight Chase,Action,Evening,Standard 2D,5,228.17,61.9,410.03,0,Weekday,1140.85,410.03,1550.88,Small Group
+T00464,2025-10-01,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,3,180.78,48.2,410.97,0,Weekday,542.34,410.97,953.31,Small Group
+T00465,2026-02-20,Midnight Chase,Action,Matinee,IMAX,3,461.85,54.4,268.25,0,Weekday,1385.55,268.25,1653.8,Small Group
+T00466,2026-08-31,Midnight Chase,Action,Matinee,Standard 2D,4,240.3,44.2,0.0,0,Weekday,961.2,0.0,961.2,Small Group
+T00467,2025-02-08,Whispers in the Rain,Drama,Evening,Standard 2D,4,217.32,68.7,378.89,1,Weekend,869.28,378.89,1248.17,Small Group
+T00469,2025-01-29,Whispers in the Rain,Drama,Late Night,IMAX,1,389.74,59.3,0.0,0,Weekday,389.74,0.0,389.74,Solo
+T00470,2026-04-22,The Secret Reef,Animation,Matinee,3D,2,303.05,42.3,0.0,0,Weekday,606.1,0.0,606.1,Couple
+T00471,2025-11-14,Shadow Protocol,Thriller,Matinee,Standard 2D,2,231.96,46.0,240.59,0,Weekday,463.92,240.59,704.51,Couple
+T00472,2025-09-02,Golden Hour,Drama,Evening,IMAX,2,400.24,66.8,203.29,0,Weekday,800.48,203.29,1003.77,Couple
+T00473,2025-09-29,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,3,221.0,45.0,270.72,0,Weekday,663.0,270.72,933.72,Small Group
+T00474,2026-03-16,Midnight Chase,Action,Evening,Standard 2D,2,198.25,66.1,252.93,0,Weekday,396.5,252.93,649.43,Couple
+T00475,2025-08-27,Golden Hour,Drama,Evening,IMAX,1,392.63,81.5,93.88,0,Weekday,392.63,93.88,486.51,Solo
+T00476,2026-01-12,Starlight Odyssey,Sci-Fi,Late Night,3D,2,252.73,68.3,0.0,0,Weekday,505.46,0.0,505.46,Couple
+T00477,2025-09-23,Pixel Kingdom,Animation,Evening,Standard 2D,1,160.39,46.7,130.41,0,Weekday,160.39,130.41,290.8,Solo
+T00478,2025-12-25,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,3,182.72,42.2,0.0,0,Weekday,548.16,0.0,548.16,Small Group
+T00479,2025-12-06,Cosmic Horizon,Sci-Fi,Late Night,3D,4,334.53,73.8,731.3,1,Weekend,1338.12,731.3,2069.42,Small Group
+T00480,2026-01-24,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,258.25,55.0,719.07,1,Weekend,1033.0,719.07,1752.07,Small Group
+T00481,2026-07-31,Chasing Laughter,Comedy,Matinee,IMAX,2,384.24,66.9,154.58,0,Weekday,768.48,154.58,923.06,Couple
+T00482,2025-01-03,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,1,182.73,51.0,0.0,0,Weekday,182.73,0.0,182.73,Solo
+T00483,2026-03-05,Midnight Chase,Action,Evening,IMAX,2,397.49,79.8,161.1,0,Weekday,794.98,161.1,956.08,Couple
+T00484,2025-05-22,Golden Hour,Drama,Late Night,3D,3,304.8,72.5,263.32,0,Weekday,914.4,263.32,1177.72,Small Group
+T00485,2026-01-11,Turbo Drift,Action,Evening,IMAX,2,440.96,97.7,231.25,1,Weekend,881.92,231.25,1113.17,Couple
+T00486,2026-11-01,Echoes of Tomorrow,Sci-Fi,Matinee,3D,3,277.9,69.8,325.47,1,Weekend,833.7,325.47,1159.17,Small Group
+T00487,2025-11-20,Midnight Chase,Action,Late Night,3D,2,266.94,52.7,199.7,0,Weekday,533.88,199.7,733.58,Couple
+T00488,2025-05-26,The Secret Reef,Animation,Evening,Standard 2D,4,230.54,57.5,391.5,0,Weekday,922.16,391.5,1313.66,Small Group
+T00489,2025-10-20,Shadow Protocol,Thriller,Matinee,Standard 2D,2,184.36,32.2,323.9,0,Weekday,368.72,323.9,692.62,Couple
+T00490,2026-10-27,Whispers in the Rain,Drama,Evening,Standard 2D,2,206.86,37.8,201.23,0,Weekday,413.72,201.23,614.95,Couple
+T00491,2026-03-08,Midnight Chase,Action,Evening,IMAX,4,492.8,95.6,523.29,1,Weekend,1971.2,523.29,2494.49,Small Group
+T00492,2026-08-08,Turbo Drift,Action,Late Night,IMAX,2,533.54,93.7,202.75,1,Weekend,1067.08,202.75,1269.83,Couple
+T00493,2026-02-03,Chasing Laughter,Comedy,Matinee,Standard 2D,1,163.52,41.0,140.65,0,Weekday,163.52,140.65,304.17,Solo
+T00494,2025-12-10,Whispers in the Rain,Drama,Matinee,Standard 2D,3,217.51,64.0,267.03,0,Weekday,652.53,267.03,919.56,Small Group
+T00495,2025-05-20,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,3,238.66,56.9,285.94,0,Weekday,715.98,285.94,1001.92,Small Group
+T00496,2025-07-06,Turbo Drift,Action,Matinee,3D,4,278.34,44.6,0.0,1,Weekend,1113.36,0.0,1113.36,Small Group
+T00497,2025-03-02,Turbo Drift,Action,Evening,3D,2,377.9,93.0,303.21,1,Weekend,755.8,303.21,1059.01,Couple
+T00498,2026-01-15,Turbo Drift,Action,Evening,IMAX,2,350.57,68.2,162.84,0,Weekday,701.14,162.84,863.98,Couple
+T00499,2026-03-16,Chasing Laughter,Comedy,Evening,IMAX,2,351.54,86.1,0.0,0,Weekday,703.08,0.0,703.08,Couple
+T00500,2025-11-15,Midnight Chase,Action,Late Night,Standard 2D,1,214.87,48.7,113.26,1,Weekend,214.87,113.26,328.13,Solo
+T00501,2025-10-29,Cosmic Horizon,Sci-Fi,Evening,3D,5,323.09,70.9,446.73,0,Weekday,1615.45,446.73,2062.18,Small Group
+T00502,2025-12-10,Pixel Kingdom,Animation,Matinee,Standard 2D,4,230.88,35.4,0.0,0,Weekday,923.52,0.0,923.52,Small Group
+T00503,2025-01-11,Midnight Chase,Action,Evening,Standard 2D,14,202.47,77.4,1847.62,1,Weekend,2834.58,1847.62,4682.2,Large Group
+T00504,2025-03-03,Golden Hour,Drama,Late Night,Standard 2D,3,204.19,57.2,448.26,0,Weekday,612.57,448.26,1060.83,Small Group
+T00505,2025-08-14,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,2,174.28,65.4,0.0,0,Weekday,348.56,0.0,348.56,Couple
+T00506,2025-06-02,Turbo Drift,Action,Matinee,IMAX,5,457.0,60.8,527.08,0,Weekday,2285.0,527.08,2812.08,Small Group
+T00507,2026-07-18,Turbo Drift,Action,Late Night,Standard 2D,1,266.23,47.5,178.0,1,Weekend,266.23,178.0,444.23,Solo
+T00508,2026-07-25,Echoes of Tomorrow,Sci-Fi,Evening,3D,1,386.43,90.8,148.77,1,Weekend,386.43,148.77,535.2,Solo
+T00509,2026-08-07,Midnight Chase,Action,Matinee,IMAX,3,473.51,72.4,359.13,0,Weekday,1420.53,359.13,1779.66,Small Group
+T00510,2026-10-22,Shadow Protocol,Thriller,Matinee,IMAX,3,410.74,47.5,463.07,0,Weekday,1232.22,463.07,1695.29,Small Group
+T00511,2026-07-29,Echoes of Tomorrow,Sci-Fi,Matinee,Standard 2D,3,234.76,34.2,382.19,0,Weekday,704.28,382.19,1086.47,Small Group
+T00512,2025-11-06,Midnight Chase,Action,Late Night,3D,1,359.97,67.9,134.51,0,Weekday,359.97,134.51,494.48,Solo
+T00513,2025-08-31,Golden Hour,Drama,Matinee,Standard 2D,2,246.77,58.5,170.16,1,Weekend,493.54,170.16,663.7,Couple
+T00514,2026-05-08,Cosmic Horizon,Sci-Fi,Matinee,IMAX,2,422.56,49.6,301.79,0,Weekday,845.12,301.79,1146.91,Couple
+T00515,2026-01-01,Cosmic Horizon,Sci-Fi,Late Night,3D,2,314.61,58.3,206.05,0,Weekday,629.22,206.05,835.27,Couple
+T00516,2025-11-26,Golden Hour,Drama,Evening,3D,5,269.16,58.3,445.15,0,Weekday,1345.8,445.15,1790.95,Small Group
+T00517,2025-04-17,Office Mayhem,Comedy,Matinee,Standard 2D,1,256.29,46.9,136.86,0,Weekday,256.29,136.86,393.15,Solo
+T00518,2025-08-14,Turbo Drift,Action,Matinee,IMAX,2,374.58,55.0,278.34,0,Weekday,749.16,278.34,1027.5,Couple
+T00519,2025-08-06,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,3,177.76,41.1,293.11,0,Weekday,533.28,293.11,826.39,Small Group
+T00520,2026-05-21,The Secret Reef,Animation,Matinee,Standard 2D,2,251.52,58.3,321.52,0,Weekday,503.04,321.52,824.56,Couple
+T00521,2025-09-16,Midnight Chase,Action,Evening,Standard 2D,3,206.52,29.4,316.05,0,Weekday,619.56,316.05,935.61,Small Group
+T00522,2026-06-01,Whispers in the Rain,Drama,Matinee,Standard 2D,4,166.32,51.7,0.0,0,Weekday,665.28,0.0,665.28,Small Group
+T00523,2025-02-23,Pixel Kingdom,Animation,Matinee,Standard 2D,1,244.04,72.3,126.45,1,Weekend,244.04,126.45,370.49,Solo
+T00524,2025-02-16,Pixel Kingdom,Animation,Late Night,IMAX,5,411.9,71.5,0.0,1,Weekend,2059.5,0.0,2059.5,Small Group
+T00525,2026-06-05,Pixel Kingdom,Animation,Evening,IMAX,3,426.16,85.3,347.85,0,Weekday,1278.48,347.85,1626.33,Small Group
+T00526,2025-04-09,Office Mayhem,Comedy,Evening,Standard 2D,2,215.98,47.5,231.25,0,Weekday,431.96,231.25,663.21,Couple
+T00527,2025-01-20,Golden Hour,Drama,Evening,Standard 2D,2,212.01,51.1,190.44,0,Weekday,424.02,190.44,614.46,Couple
+T00528,2026-07-27,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,2,221.07,49.7,277.42,0,Weekday,442.14,277.42,719.56,Couple
+T00529,2026-05-05,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,186.43,70.4,629.31,0,Weekday,745.72,629.31,1375.03,Small Group
+T00530,2026-02-23,Office Mayhem,Comedy,Evening,Standard 2D,4,188.72,38.1,0.0,0,Weekday,754.88,0.0,754.88,Small Group
+T00531,2025-03-03,Office Mayhem,Comedy,Evening,IMAX,4,421.59,93.7,0.0,0,Weekday,1686.36,0.0,1686.36,Small Group
+T00532,2025-05-25,Turbo Drift,Action,Late Night,Standard 2D,6,253.9,60.3,1054.04,1,Weekend,1523.4,1054.04,2577.44,Large Group
+T00533,2025-08-04,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,220.34,52.4,583.66,0,Weekday,881.36,583.66,1465.02,Small Group
+T00534,2025-01-03,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,3,240.68,54.3,357.36,0,Weekday,722.04,357.36,1079.4,Small Group
+T00535,2025-06-09,Midnight Chase,Action,Matinee,IMAX,2,371.97,61.8,299.01,0,Weekday,743.94,299.01,1042.95,Couple
+T00536,2025-04-30,Midnight Chase,Action,Late Night,3D,3,251.65,47.8,0.0,0,Weekday,754.95,0.0,754.95,Small Group
+T00537,2025-03-30,Whispers in the Rain,Drama,Evening,IMAX,1,436.63,100.0,99.38,1,Weekend,436.63,99.38,536.01,Solo
+T00538,2025-11-25,Office Mayhem,Comedy,Late Night,IMAX,4,369.36,56.8,468.32,0,Weekday,1477.44,468.32,1945.76,Small Group
+T00539,2026-08-03,Pixel Kingdom,Animation,Matinee,Standard 2D,2,202.61,36.2,230.91,0,Weekday,405.22,230.91,636.13,Couple
+T00540,2025-12-23,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,1,215.23,69.5,151.52,0,Weekday,215.23,151.52,366.75,Solo
+T00541,2026-09-02,Chasing Laughter,Comedy,Evening,3D,1,315.88,67.7,101.14,0,Weekday,315.88,101.14,417.02,Solo
+T00542,2025-09-24,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,2,187.44,75.3,315.86,0,Weekday,374.88,315.86,690.74,Couple
+T00543,2026-09-09,Starlight Odyssey,Sci-Fi,Evening,3D,3,294.0,65.2,300.26,0,Weekday,882.0,300.26,1182.26,Small Group
+T00544,2025-11-19,Chasing Laughter,Comedy,Evening,Standard 2D,2,237.83,51.2,315.21,0,Weekday,475.66,315.21,790.87,Couple
+T00545,2026-09-27,Chasing Laughter,Comedy,Evening,Standard 2D,3,288.73,78.3,422.14,1,Weekend,866.19,422.14,1288.33,Small Group
+T00546,2026-06-25,Turbo Drift,Action,Evening,3D,2,312.07,60.6,231.25,0,Weekday,624.14,231.25,855.39,Couple
+T00547,2026-10-11,Echoes of Tomorrow,Sci-Fi,Evening,3D,3,319.72,74.5,552.74,1,Weekend,959.16,552.74,1511.9,Small Group
+T00548,2025-07-14,Whispers in the Rain,Drama,Matinee,IMAX,2,367.49,70.0,301.83,0,Weekday,734.98,301.83,1036.81,Couple
+T00549,2025-11-28,Pixel Kingdom,Animation,Late Night,Standard 2D,1,170.66,70.0,101.54,0,Weekday,170.66,101.54,272.2,Solo
+T00550,2025-06-19,The Secret Reef,Animation,Evening,3D,3,325.72,63.0,299.4,0,Weekday,977.16,299.4,1276.56,Small Group
+T00551,2026-06-05,Chasing Laughter,Comedy,Late Night,Standard 2D,2,185.98,36.3,315.29,0,Weekday,371.96,315.29,687.25,Couple
+T00552,2026-04-08,Midnight Chase,Action,Matinee,Standard 2D,1,185.47,43.2,147.28,0,Weekday,185.47,147.28,332.75,Solo
+T00553,2025-02-09,The Secret Reef,Animation,Late Night,Standard 2D,2,277.69,70.2,206.94,1,Weekend,555.38,206.94,762.32,Couple
+T00554,2026-06-21,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,1,185.27,67.1,93.42,1,Weekend,185.27,93.42,278.69,Solo
+T00555,2025-09-18,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,3,217.98,73.3,268.8,0,Weekday,653.94,268.8,922.74,Small Group
+T00556,2026-01-30,Shadow Protocol,Thriller,Evening,Standard 2D,2,222.79,67.0,299.94,0,Weekday,445.58,299.94,745.52,Couple
+T00557,2025-08-14,Whispers in the Rain,Drama,Evening,Standard 2D,3,196.52,45.8,310.85,0,Weekday,589.56,310.85,900.41,Small Group
+T00558,2025-05-04,Chasing Laughter,Comedy,Late Night,Standard 2D,4,241.05,58.1,542.16,1,Weekend,964.2,542.16,1506.36,Small Group
+T00559,2025-02-07,Turbo Drift,Action,Evening,Standard 2D,2,241.81,42.4,236.15,0,Weekday,483.62,236.15,719.77,Couple
+T00560,2025-11-24,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,6,255.79,58.7,947.77,0,Weekday,1534.74,947.77,2482.51,Large Group
+T00561,2025-09-08,Chasing Laughter,Comedy,Evening,Standard 2D,3,242.43,35.1,468.57,0,Weekday,727.29,468.57,1195.86,Small Group
+T00562,2025-06-25,Turbo Drift,Action,Late Night,3D,3,312.13,39.6,476.28,0,Weekday,936.39,476.28,1412.67,Small Group
+T00563,2026-08-25,Shadow Protocol,Thriller,Late Night,Standard 2D,3,177.97,41.9,359.13,0,Weekday,533.91,359.13,893.04,Small Group
+T00564,2026-03-30,Midnight Chase,Action,Late Night,Standard 2D,3,169.98,54.8,321.97,0,Weekday,509.94,321.97,831.91,Small Group
+T00565,2025-02-06,Office Mayhem,Comedy,Evening,Standard 2D,3,165.45,52.7,256.87,0,Weekday,496.35,256.87,753.22,Small Group
+T00566,2025-11-12,Whispers in the Rain,Drama,Matinee,3D,2,323.32,47.6,0.0,0,Weekday,646.64,0.0,646.64,Couple
+T00567,2026-08-16,The Secret Reef,Animation,Matinee,IMAX,1,509.76,71.9,142.35,1,Weekend,509.76,142.35,652.11,Solo
+T00568,2025-04-24,Turbo Drift,Action,Matinee,IMAX,1,357.66,62.1,127.0,0,Weekday,357.66,127.0,484.66,Solo
+T00569,2025-02-09,Cosmic Horizon,Sci-Fi,Matinee,3D,2,353.25,53.4,306.24,1,Weekend,706.5,306.24,1012.74,Couple
+T00570,2025-10-28,Pixel Kingdom,Animation,Evening,3D,2,315.74,54.6,226.36,0,Weekday,631.48,226.36,857.84,Couple
+T00571,2025-08-12,Echoes of Tomorrow,Sci-Fi,Matinee,3D,2,339.04,72.2,175.34,0,Weekday,678.08,175.34,853.42,Couple
+T00572,2025-11-14,Midnight Chase,Action,Evening,3D,1,338.02,70.8,127.85,0,Weekday,338.02,127.85,465.87,Solo
+T00573,2025-12-15,Golden Hour,Drama,Late Night,Standard 2D,4,253.21,57.1,417.25,0,Weekday,1012.84,417.25,1430.09,Small Group
+T00574,2025-04-25,Midnight Chase,Action,Evening,Standard 2D,4,237.02,59.7,326.88,0,Weekday,948.08,326.88,1274.96,Small Group
+T00575,2025-11-19,Whispers in the Rain,Drama,Late Night,Standard 2D,5,234.77,46.3,384.29,0,Weekday,1173.85,384.29,1558.14,Small Group
+T00576,2026-07-22,Chasing Laughter,Comedy,Evening,IMAX,2,382.77,79.5,233.22,0,Weekday,765.54,233.22,998.76,Couple
+T00577,2025-02-09,Echoes of Tomorrow,Sci-Fi,Matinee,3D,4,282.7,76.7,439.4,1,Weekend,1130.8,439.4,1570.2,Small Group
+T00578,2025-02-09,Echoes of Tomorrow,Sci-Fi,Evening,3D,4,302.24,92.2,0.0,1,Weekend,1208.96,0.0,1208.96,Small Group
+T00579,2025-10-16,Midnight Chase,Action,Matinee,Standard 2D,2,188.99,43.5,169.69,0,Weekday,377.98,169.69,547.67,Couple
+T00580,2025-09-19,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,2,245.29,70.5,207.43,0,Weekday,490.58,207.43,698.01,Couple
+T00581,2025-08-04,Golden Hour,Drama,Evening,Standard 2D,5,198.76,29.4,468.11,0,Weekday,993.8,468.11,1461.91,Small Group
+T00582,2025-05-27,Pixel Kingdom,Animation,Matinee,Standard 2D,3,192.32,55.7,366.21,0,Weekday,576.96,366.21,943.17,Small Group
+T00583,2025-12-02,Starlight Odyssey,Sci-Fi,Matinee,IMAX,2,480.92,54.9,0.0,0,Weekday,961.84,0.0,961.84,Couple
+T00584,2025-06-17,Golden Hour,Drama,Evening,3D,1,289.97,72.6,93.61,0,Weekday,289.97,93.61,383.58,Solo
+T00585,2025-04-02,Shadow Protocol,Thriller,Late Night,Standard 2D,1,199.03,40.2,120.57,0,Weekday,199.03,120.57,319.6,Solo
+T00586,2025-12-19,Echoes of Tomorrow,Sci-Fi,Late Night,IMAX,11,364.85,47.1,1727.5,0,Weekday,4013.35,1727.5,5740.85,Large Group
+T00587,2026-07-25,Midnight Chase,Action,Evening,Standard 2D,3,244.95,79.1,544.07,1,Weekend,734.85,544.07,1278.92,Small Group
+T00588,2026-07-25,Whispers in the Rain,Drama,Matinee,IMAX,2,479.13,58.0,342.4,1,Weekend,958.26,342.4,1300.66,Couple
+T00589,2026-11-12,Shadow Protocol,Thriller,Late Night,Standard 2D,1,231.92,43.2,87.68,0,Weekday,231.92,87.68,319.6,Solo
+T00590,2025-12-29,Turbo Drift,Action,Late Night,Standard 2D,3,234.52,38.3,399.87,0,Weekday,703.56,399.87,1103.43,Small Group
+T00591,2026-07-11,Shadow Protocol,Thriller,Evening,Standard 2D,3,229.02,72.9,296.39,1,Weekend,687.06,296.39,983.45,Small Group
+T00592,2025-12-11,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,2,243.75,57.6,153.14,0,Weekday,487.5,153.14,640.64,Couple
+T00593,2025-06-19,Midnight Chase,Action,Evening,Standard 2D,4,190.99,53.1,326.49,0,Weekday,763.96,326.49,1090.45,Small Group
+T00594,2025-12-22,The Secret Reef,Animation,Late Night,3D,1,305.83,58.8,146.37,0,Weekday,305.83,146.37,452.2,Solo
+T00595,2025-07-10,Pixel Kingdom,Animation,Late Night,IMAX,2,406.18,71.9,0.0,0,Weekday,812.36,0.0,812.36,Couple
+T00596,2026-10-29,Midnight Chase,Action,Matinee,IMAX,3,469.71,52.7,435.35,0,Weekday,1409.13,435.35,1844.48,Small Group
+T00597,2026-02-26,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,2,203.19,51.9,179.32,0,Weekday,406.38,179.32,585.7,Couple
+T00598,2025-01-07,Midnight Chase,Action,Late Night,3D,4,292.47,71.4,499.69,0,Weekday,1169.88,499.69,1669.57,Small Group
+T00599,2025-05-13,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,228.98,44.0,347.12,0,Weekday,915.92,347.12,1263.04,Small Group
+T00600,2026-07-11,The Secret Reef,Animation,Evening,Standard 2D,4,233.62,81.1,444.17,1,Weekend,934.48,444.17,1378.65,Small Group
+T00601,2025-01-31,Pixel Kingdom,Animation,Late Night,3D,1,305.9,61.0,103.22,0,Weekday,305.9,103.22,409.12,Solo
+T00602,2026-06-19,Turbo Drift,Action,Evening,3D,1,330.9,51.6,113.57,0,Weekday,330.9,113.57,444.47,Solo
+T00603,2026-03-02,Chasing Laughter,Comedy,Matinee,Standard 2D,2,259.21,35.9,241.81,0,Weekday,518.42,241.81,760.23,Couple
+T00604,2026-01-29,Turbo Drift,Action,Evening,Standard 2D,3,222.91,63.5,331.75,0,Weekday,668.73,331.75,1000.48,Small Group
+T00605,2026-11-03,Starlight Odyssey,Sci-Fi,Matinee,IMAX,4,401.84,35.2,453.07,0,Weekday,1607.36,453.07,2060.43,Small Group
+T00606,2025-12-29,Whispers in the Rain,Drama,Evening,Standard 2D,12,182.62,56.5,1459.09,0,Weekday,2191.44,1459.09,3650.53,Large Group
+T00607,2026-03-13,Echoes of Tomorrow,Sci-Fi,Matinee,Standard 2D,4,247.28,34.6,537.38,0,Weekday,989.12,537.38,1526.5,Small Group
+T00608,2026-11-01,Turbo Drift,Action,Evening,3D,5,364.53,95.3,757.84,1,Weekend,1822.65,757.84,2580.49,Small Group
+T00609,2026-07-05,Pixel Kingdom,Animation,Evening,Standard 2D,8,201.94,79.2,1422.77,1,Weekend,1615.52,1422.77,3038.29,Large Group
+T00610,2025-03-23,Whispers in the Rain,Drama,Evening,Standard 2D,2,206.94,89.3,298.53,1,Weekend,413.88,298.53,712.41,Couple
+T00611,2025-12-22,The Secret Reef,Animation,Evening,Standard 2D,2,175.23,58.5,290.32,0,Weekday,350.46,290.32,640.78,Couple
+T00612,2025-09-15,Shadow Protocol,Thriller,Evening,IMAX,3,386.96,72.6,491.02,0,Weekday,1160.88,491.02,1651.9,Small Group
+T00613,2026-08-12,Turbo Drift,Action,Evening,3D,1,297.03,62.3,82.17,0,Weekday,297.03,82.17,379.2,Solo
+T00614,2026-06-08,Turbo Drift,Action,Matinee,3D,1,330.61,46.0,0.0,0,Weekday,330.61,0.0,330.61,Solo
+T00615,2025-10-22,Starlight Odyssey,Sci-Fi,Evening,IMAX,3,397.08,100.0,478.6,0,Weekday,1191.24,478.6,1669.84,Small Group
+T00617,2025-08-12,Midnight Chase,Action,Matinee,IMAX,4,396.0,69.7,0.0,0,Weekday,1584.0,0.0,1584.0,Small Group
+T00618,2026-06-09,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,1,188.49,35.2,134.14,0,Weekday,188.49,134.14,322.63,Solo
+T00619,2025-02-15,Midnight Chase,Action,Matinee,Standard 2D,4,221.97,92.7,479.3,1,Weekend,887.88,479.3,1367.18,Small Group
+T00620,2026-10-29,Chasing Laughter,Comedy,Evening,3D,4,303.42,61.1,316.09,0,Weekday,1213.68,316.09,1529.77,Small Group
+T00621,2025-04-23,Echoes of Tomorrow,Sci-Fi,Evening,3D,2,327.46,69.9,198.07,0,Weekday,654.92,198.07,852.99,Couple
+T00622,2025-08-21,Shadow Protocol,Thriller,Evening,3D,1,253.28,77.3,149.04,0,Weekday,253.28,149.04,402.32,Solo
+T00623,2025-01-17,Turbo Drift,Action,Matinee,3D,1,251.08,33.5,91.67,0,Weekday,251.08,91.67,342.75,Solo
+T00624,2025-12-26,Shadow Protocol,Thriller,Evening,Standard 2D,4,167.51,49.1,492.02,0,Weekday,670.04,492.02,1162.06,Small Group
+T00625,2025-08-11,Shadow Protocol,Thriller,Evening,Standard 2D,4,213.57,78.8,392.44,0,Weekday,854.28,392.44,1246.72,Small Group
+T00626,2026-03-24,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,5,245.45,56.3,0.0,0,Weekday,1227.25,0.0,1227.25,Small Group
+T00627,2025-12-31,Whispers in the Rain,Drama,Evening,Standard 2D,3,160.49,71.0,253.77,0,Weekday,481.47,253.77,735.24,Small Group
+T00628,2026-11-06,Chasing Laughter,Comedy,Evening,Standard 2D,1,253.67,53.6,78.71,0,Weekday,253.67,78.71,332.38,Solo
+T00629,2025-11-22,Whispers in the Rain,Drama,Evening,3D,1,296.81,80.9,89.27,1,Weekend,296.81,89.27,386.08,Solo
+T00630,2026-04-12,Turbo Drift,Action,Evening,3D,4,338.26,100.0,0.0,1,Weekend,1353.04,0.0,1353.04,Small Group
+T00631,2026-02-18,Whispers in the Rain,Drama,Evening,Standard 2D,1,211.07,64.3,133.24,0,Weekday,211.07,133.24,344.31,Solo
+T00632,2026-03-31,Pixel Kingdom,Animation,Evening,3D,2,302.48,61.9,0.0,0,Weekday,604.96,0.0,604.96,Couple
+T00633,2026-08-09,Whispers in the Rain,Drama,Matinee,3D,2,384.77,59.8,0.0,1,Weekend,769.54,0.0,769.54,Couple
+T00634,2025-08-21,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,1,208.34,37.9,0.0,0,Weekday,208.34,0.0,208.34,Solo
+T00635,2025-08-12,Pixel Kingdom,Animation,Matinee,3D,2,262.28,66.9,255.22,0,Weekday,524.56,255.22,779.78,Couple
+T00636,2026-02-16,Midnight Chase,Action,Matinee,IMAX,2,366.16,69.2,0.0,0,Weekday,732.32,0.0,732.32,Couple
+T00637,2026-07-26,Midnight Chase,Action,Evening,IMAX,2,509.8,76.2,311.55,1,Weekend,1019.6,311.55,1331.15,Couple
+T00638,2025-12-01,Starlight Odyssey,Sci-Fi,Evening,3D,1,302.97,67.0,159.06,0,Weekday,302.97,159.06,462.03,Solo
+T00639,2025-08-10,Whispers in the Rain,Drama,Matinee,3D,4,369.01,67.2,390.77,1,Weekend,1476.04,390.77,1866.81,Small Group
+T00640,2025-02-06,Turbo Drift,Action,Late Night,Standard 2D,4,222.89,51.8,579.42,0,Weekday,891.56,579.42,1470.98,Small Group
+T00641,2025-10-05,Chasing Laughter,Comedy,Matinee,Standard 2D,2,266.18,53.8,262.02,1,Weekend,532.36,262.02,794.38,Couple
+T00642,2025-07-15,Chasing Laughter,Comedy,Late Night,Standard 2D,4,195.63,61.2,454.51,0,Weekday,782.52,454.51,1237.03,Small Group
+T00643,2026-04-29,Cosmic Horizon,Sci-Fi,Evening,IMAX,2,388.37,74.0,196.17,0,Weekday,776.74,196.17,972.91,Couple
+T00644,2025-08-30,Midnight Chase,Action,Evening,Standard 2D,3,261.18,79.5,256.76,1,Weekend,783.54,256.76,1040.3,Small Group
+T00645,2025-11-20,Office Mayhem,Comedy,Matinee,Standard 2D,4,250.33,35.6,538.1,0,Weekday,1001.32,538.1,1539.42,Small Group
+T00646,2025-07-11,Shadow Protocol,Thriller,Evening,IMAX,4,359.76,65.2,0.0,0,Weekday,1439.04,0.0,1439.04,Small Group
+T00647,2025-01-17,Pixel Kingdom,Animation,Evening,IMAX,4,358.15,100.0,0.0,0,Weekday,1432.6,0.0,1432.6,Small Group
+T00648,2026-06-08,Shadow Protocol,Thriller,Late Night,IMAX,1,479.78,84.6,154.0,0,Weekday,479.78,154.0,633.78,Solo
+T00649,2026-02-05,Midnight Chase,Action,Evening,Standard 2D,1,224.85,58.2,76.99,0,Weekday,224.85,76.99,301.84,Solo
+T00650,2025-01-22,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,5,197.96,66.4,498.61,0,Weekday,989.8,498.61,1488.41,Small Group
+T00651,2026-04-19,Whispers in the Rain,Drama,Matinee,Standard 2D,2,263.12,75.6,313.47,1,Weekend,526.24,313.47,839.71,Couple
+T00652,2025-04-30,Office Mayhem,Comedy,Evening,Standard 2D,2,213.12,51.5,235.57,0,Weekday,426.24,235.57,661.81,Couple
+T00653,2025-07-29,Midnight Chase,Action,Evening,Standard 2D,4,169.89,50.3,652.79,0,Weekday,679.56,652.79,1332.35,Small Group
+T00654,2025-11-02,Shadow Protocol,Thriller,Evening,3D,4,385.69,90.0,567.79,1,Weekend,1542.76,567.79,2110.55,Small Group
+T00655,2025-09-27,Cosmic Horizon,Sci-Fi,Matinee,IMAX,5,424.63,79.1,603.65,1,Weekend,2123.15,603.65,2726.8,Small Group
+T00656,2025-10-12,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,8,273.79,70.2,0.0,1,Weekend,2190.32,0.0,2190.32,Large Group
+T00657,2026-11-07,Whispers in the Rain,Drama,Evening,3D,4,350.6,90.7,625.82,1,Weekend,1402.4,625.82,2028.22,Small Group
+T00658,2025-08-15,Turbo Drift,Action,Evening,3D,1,281.0,48.7,157.48,0,Weekday,281.0,157.48,438.48,Solo
+T00659,2026-01-16,The Secret Reef,Animation,Evening,Standard 2D,1,232.2,60.4,0.0,0,Weekday,232.2,0.0,232.2,Solo
+T00660,2026-04-05,Chasing Laughter,Comedy,Late Night,3D,3,384.6,56.1,490.67,1,Weekend,1153.8,490.67,1644.47,Small Group
+T00661,2025-01-07,Turbo Drift,Action,Matinee,Standard 2D,1,211.16,30.5,85.65,0,Weekday,211.16,85.65,296.81,Solo
+T00662,2025-01-29,Echoes of Tomorrow,Sci-Fi,Late Night,Standard 2D,2,175.89,39.5,291.71,0,Weekday,351.78,291.71,643.49,Couple
+T00663,2025-02-02,The Secret Reef,Animation,Late Night,3D,3,280.08,75.4,500.98,1,Weekend,840.24,500.98,1341.22,Small Group
+T00664,2026-10-08,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,2,164.93,39.9,292.2,0,Weekday,329.86,292.2,622.06,Couple
+T00665,2025-03-20,Turbo Drift,Action,Evening,IMAX,1,429.71,59.4,82.63,0,Weekday,429.71,82.63,512.34,Solo
+T00666,2026-04-04,Chasing Laughter,Comedy,Evening,Standard 2D,2,223.2,80.7,169.37,1,Weekend,446.4,169.37,615.77,Couple
+T00667,2026-07-24,Echoes of Tomorrow,Sci-Fi,Late Night,3D,2,283.62,72.9,0.0,0,Weekday,567.24,0.0,567.24,Couple
+T00668,2026-06-22,Pixel Kingdom,Animation,Matinee,Standard 2D,2,219.3,52.7,244.96,0,Weekday,438.6,244.96,683.56,Couple
+T00669,2026-04-27,Midnight Chase,Action,Evening,Standard 2D,4,213.77,80.6,601.86,0,Weekday,855.08,601.86,1456.94,Small Group
+T00670,2026-03-06,Golden Hour,Drama,Evening,Standard 2D,4,160.47,75.9,612.97,0,Weekday,641.88,612.97,1254.85,Small Group
+T00671,2025-10-12,Chasing Laughter,Comedy,Evening,3D,2,278.35,76.2,235.73,1,Weekend,556.7,235.73,792.43,Couple
+T00672,2026-05-31,Echoes of Tomorrow,Sci-Fi,Matinee,IMAX,4,504.15,83.6,497.41,1,Weekend,2016.6,497.41,2514.01,Small Group
+T00673,2025-04-09,Echoes of Tomorrow,Sci-Fi,Evening,IMAX,1,449.53,72.9,125.36,0,Weekday,449.53,125.36,574.89,Solo
+T00674,2026-02-01,Cosmic Horizon,Sci-Fi,Late Night,3D,2,403.15,83.7,365.23,1,Weekend,806.3,365.23,1171.53,Couple
+T00675,2026-05-04,Midnight Chase,Action,Matinee,IMAX,15,384.01,58.9,1994.06,0,Weekday,5760.15,1994.06,7754.21,Large Group
+T00676,2025-02-08,Golden Hour,Drama,Late Night,3D,2,370.67,61.5,231.25,1,Weekend,741.34,231.25,972.59,Couple
+T00677,2025-09-28,Starlight Odyssey,Sci-Fi,Matinee,3D,6,343.33,84.5,968.76,1,Weekend,2059.98,968.76,3028.74,Large Group
+T00678,2025-06-06,Starlight Odyssey,Sci-Fi,Evening,3D,12,320.54,69.8,1669.16,0,Weekday,3846.48,1669.16,5515.64,Large Group
+T00679,2025-03-16,The Secret Reef,Animation,Matinee,3D,4,318.93,60.0,405.29,1,Weekend,1275.72,405.29,1681.01,Small Group
+T00680,2025-05-10,Midnight Chase,Action,Matinee,IMAX,2,443.13,70.0,268.05,1,Weekend,886.26,268.05,1154.31,Couple
+T00681,2025-03-25,Whispers in the Rain,Drama,Late Night,Standard 2D,2,191.9,40.0,290.14,0,Weekday,383.8,290.14,673.94,Couple
+T00682,2025-01-22,Echoes of Tomorrow,Sci-Fi,Evening,IMAX,2,485.66,62.0,253.42,0,Weekday,971.32,253.42,1224.74,Couple
+T00683,2026-04-04,Whispers in the Rain,Drama,Evening,3D,4,400.97,76.3,562.87,1,Weekend,1603.88,562.87,2166.75,Small Group
+T00684,2026-06-23,Chasing Laughter,Comedy,Matinee,Standard 2D,3,202.18,49.5,283.65,0,Weekday,606.54,283.65,890.19,Small Group
+T00685,2026-01-17,Office Mayhem,Comedy,Evening,Standard 2D,6,261.27,75.8,727.74,1,Weekend,1567.62,727.74,2295.36,Large Group
+T00686,2026-03-16,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,2,245.04,53.7,231.25,0,Weekday,490.08,231.25,721.33,Couple
+T00687,2026-08-27,Turbo Drift,Action,Evening,3D,1,295.58,83.9,94.39,0,Weekday,295.58,94.39,389.97,Solo
+T00688,2025-01-21,Echoes of Tomorrow,Sci-Fi,Evening,IMAX,2,365.73,49.9,328.3,0,Weekday,731.46,328.3,1059.76,Couple
+T00689,2025-10-30,Office Mayhem,Comedy,Late Night,Standard 2D,3,167.56,51.7,427.03,0,Weekday,502.68,427.03,929.71,Small Group
+T00690,2025-03-25,Cosmic Horizon,Sci-Fi,Evening,IMAX,5,430.79,72.3,811.02,0,Weekday,2153.95,811.02,2964.97,Small Group
+T00691,2026-10-21,Chasing Laughter,Comedy,Evening,IMAX,2,439.97,62.4,189.64,0,Weekday,879.94,189.64,1069.58,Couple
+T00692,2026-03-29,Chasing Laughter,Comedy,Matinee,Standard 2D,3,264.4,65.4,359.13,1,Weekend,793.2,359.13,1152.33,Small Group
+T00693,2026-01-22,The Secret Reef,Animation,Late Night,IMAX,2,373.45,60.4,235.24,0,Weekday,746.9,235.24,982.14,Couple
+T00694,2026-05-22,The Secret Reef,Animation,Evening,IMAX,3,403.06,89.0,476.08,0,Weekday,1209.18,476.08,1685.26,Small Group
+T00695,2025-09-14,Shadow Protocol,Thriller,Evening,3D,5,307.16,92.4,905.6,1,Weekend,1535.8,905.6,2441.4,Small Group
+T00696,2026-07-24,Chasing Laughter,Comedy,Matinee,IMAX,2,444.12,82.9,263.49,0,Weekday,888.24,263.49,1151.73,Couple
+T00697,2026-06-11,Starlight Odyssey,Sci-Fi,Late Night,IMAX,2,421.22,57.2,231.25,0,Weekday,842.44,231.25,1073.69,Couple
+T00698,2025-06-11,Starlight Odyssey,Sci-Fi,Matinee,3D,6,329.32,68.8,0.0,0,Weekday,1975.92,0.0,1975.92,Large Group
+T00699,2025-06-12,Golden Hour,Drama,Late Night,Standard 2D,5,195.27,34.0,0.0,0,Weekday,976.35,0.0,976.35,Small Group
+T00700,2026-06-08,Pixel Kingdom,Animation,Evening,IMAX,3,395.6,72.7,352.32,0,Weekday,1186.8,352.32,1539.12,Small Group
+T00701,2025-09-28,Office Mayhem,Comedy,Matinee,3D,3,343.58,62.4,0.0,1,Weekend,1030.74,0.0,1030.74,Small Group
+T00703,2026-05-07,Turbo Drift,Action,Late Night,3D,2,254.43,62.2,320.61,0,Weekday,508.86,320.61,829.47,Couple
+T00704,2025-07-27,Midnight Chase,Action,Evening,Standard 2D,3,261.38,81.9,526.48,1,Weekend,784.14,526.48,1310.62,Small Group
+T00705,2026-06-23,Cosmic Horizon,Sci-Fi,Late Night,IMAX,4,469.65,52.2,495.56,0,Weekday,1878.6,495.56,2374.16,Small Group
+T00706,2026-08-07,Pixel Kingdom,Animation,Late Night,Standard 2D,3,240.22,55.9,0.0,0,Weekday,720.66,0.0,720.66,Small Group
+T00707,2025-03-01,Shadow Protocol,Thriller,Late Night,IMAX,2,446.44,74.4,296.41,1,Weekend,892.88,296.41,1189.29,Couple
+T00708,2026-03-06,Turbo Drift,Action,Matinee,Standard 2D,2,175.96,35.2,254.21,0,Weekday,351.92,254.21,606.13,Couple
+T00709,2026-10-19,Turbo Drift,Action,Late Night,Standard 2D,2,249.63,47.9,273.64,0,Weekday,499.26,273.64,772.9,Couple
+T00710,2026-08-28,The Secret Reef,Animation,Evening,Standard 2D,1,200.45,41.3,103.02,0,Weekday,200.45,103.02,303.47,Solo
+T00711,2025-11-05,Chasing Laughter,Comedy,Late Night,Standard 2D,1,205.56,59.2,163.34,0,Weekday,205.56,163.34,368.9,Solo
+T00712,2026-06-04,Starlight Odyssey,Sci-Fi,Evening,3D,2,327.63,65.3,321.48,0,Weekday,655.26,321.48,976.74,Couple
+T00713,2026-08-14,Turbo Drift,Action,Late Night,IMAX,1,464.92,62.6,116.19,0,Weekday,464.92,116.19,581.11,Solo
+T00714,2025-01-27,Starlight Odyssey,Sci-Fi,Evening,IMAX,1,383.09,73.0,82.45,0,Weekday,383.09,82.45,465.54,Solo
+T00715,2026-07-16,Chasing Laughter,Comedy,Evening,Standard 2D,3,226.14,78.8,407.82,0,Weekday,678.42,407.82,1086.24,Small Group
+T00716,2025-07-18,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,1,199.2,63.2,82.18,0,Weekday,199.2,82.18,281.38,Solo
+T00717,2026-01-22,Golden Hour,Drama,Late Night,IMAX,1,401.62,79.2,82.1,0,Weekday,401.62,82.1,483.72,Solo
+T00718,2025-12-15,Midnight Chase,Action,Evening,IMAX,2,446.6,73.0,0.0,0,Weekday,893.2,0.0,893.2,Couple
+T00719,2026-06-20,Cosmic Horizon,Sci-Fi,Evening,3D,2,317.35,68.6,195.18,1,Weekend,634.7,195.18,829.88,Couple
+T00720,2026-01-13,Echoes of Tomorrow,Sci-Fi,Late Night,3D,3,341.95,54.8,351.98,0,Weekday,1025.85,351.98,1377.83,Small Group
+T00721,2026-07-12,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,1,190.13,78.8,177.55,1,Weekend,190.13,177.55,367.68,Solo
+T00722,2026-06-11,Starlight Odyssey,Sci-Fi,Matinee,IMAX,4,384.82,69.8,427.29,0,Weekday,1539.28,427.29,1966.57,Small Group
+T00723,2025-06-02,Whispers in the Rain,Drama,Evening,3D,5,251.7,69.7,574.28,0,Weekday,1258.5,574.28,1832.78,Small Group
+T00724,2025-07-25,The Secret Reef,Animation,Evening,Standard 2D,4,176.68,46.7,560.36,0,Weekday,706.72,560.36,1267.08,Small Group
+T00725,2026-03-31,Midnight Chase,Action,Evening,Standard 2D,3,220.67,52.6,438.76,0,Weekday,662.01,438.76,1100.77,Small Group
+T00726,2025-09-30,Whispers in the Rain,Drama,Matinee,IMAX,5,449.28,52.5,729.0,0,Weekday,2246.4,729.0,2975.4,Small Group
+T00727,2025-08-24,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,3,170.8,67.5,511.3,1,Weekend,512.4,511.3,1023.7,Small Group
+T00728,2026-06-05,Turbo Drift,Action,Matinee,Standard 2D,1,250.25,51.8,0.0,0,Weekday,250.25,0.0,250.25,Solo
+T00729,2026-11-09,Whispers in the Rain,Drama,Evening,3D,2,258.06,74.3,282.77,0,Weekday,516.12,282.77,798.89,Couple
+T00730,2026-05-16,Turbo Drift,Action,Matinee,Standard 2D,4,267.58,64.6,407.6,1,Weekend,1070.32,407.6,1477.92,Small Group
+T00731,2025-04-27,Office Mayhem,Comedy,Evening,Standard 2D,2,252.95,50.3,235.9,1,Weekend,505.9,235.9,741.8,Couple
+T00732,2026-01-21,Chasing Laughter,Comedy,Late Night,IMAX,1,470.23,42.3,149.84,0,Weekday,470.23,149.84,620.07,Solo
+T00733,2025-12-10,Turbo Drift,Action,Matinee,IMAX,4,448.06,58.3,570.03,0,Weekday,1792.24,570.03,2362.27,Small Group
+T00734,2026-08-07,Starlight Odyssey,Sci-Fi,Evening,IMAX,4,406.25,75.2,469.23,0,Weekday,1625.0,469.23,2094.23,Small Group
+T00735,2026-01-30,Office Mayhem,Comedy,Late Night,IMAX,1,360.68,78.0,110.34,0,Weekday,360.68,110.34,471.02,Solo
+T00736,2025-03-05,Cosmic Horizon,Sci-Fi,Late Night,3D,3,330.6,55.9,258.54,0,Weekday,991.8,258.54,1250.34,Small Group
+T00737,2025-03-13,The Secret Reef,Animation,Evening,IMAX,1,436.36,62.3,134.86,0,Weekday,436.36,134.86,571.22,Solo
+T00738,2025-10-01,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,160.29,66.9,643.14,0,Weekday,641.16,643.14,1284.3,Small Group
+T00739,2025-11-16,Midnight Chase,Action,Late Night,3D,2,283.89,70.8,212.35,1,Weekend,567.78,212.35,780.13,Couple
+T00740,2025-12-04,Whispers in the Rain,Drama,Evening,IMAX,2,386.32,69.2,271.57,0,Weekday,772.64,271.57,1044.21,Couple
+T00741,2026-01-01,Whispers in the Rain,Drama,Late Night,Standard 2D,4,223.61,28.6,328.67,0,Weekday,894.44,328.67,1223.11,Small Group
+T00742,2026-05-10,Midnight Chase,Action,Matinee,Standard 2D,2,233.43,62.0,359.09,1,Weekend,466.86,359.09,825.95,Couple
+T00743,2026-08-30,Whispers in the Rain,Drama,Late Night,3D,3,403.38,73.7,526.01,1,Weekend,1210.14,526.01,1736.15,Small Group
+T00744,2025-06-15,Midnight Chase,Action,Evening,Standard 2D,2,199.27,63.0,197.72,1,Weekend,398.54,197.72,596.26,Couple
+T00745,2026-06-28,Pixel Kingdom,Animation,Evening,Standard 2D,2,206.96,83.9,231.25,1,Weekend,413.92,231.25,645.17,Couple
+T00746,2025-01-11,Turbo Drift,Action,Matinee,IMAX,3,442.61,83.9,459.73,1,Weekend,1327.83,459.73,1787.56,Small Group
+T00747,2025-10-28,Pixel Kingdom,Animation,Evening,IMAX,1,480.59,74.6,91.19,0,Weekday,480.59,91.19,571.78,Solo
+T00748,2025-04-12,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,187.77,61.1,319.43,1,Weekend,375.54,319.43,694.97,Couple
+T00749,2026-03-01,Pixel Kingdom,Animation,Late Night,Standard 2D,2,269.39,75.4,231.92,1,Weekend,538.78,231.92,770.7,Couple
+T00750,2026-01-27,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,3,173.55,52.4,324.5,0,Weekday,520.65,324.5,845.15,Small Group
+T00751,2025-08-02,Echoes of Tomorrow,Sci-Fi,Matinee,IMAX,6,467.52,67.6,0.0,1,Weekend,2805.12,0.0,2805.12,Large Group
+T00752,2025-03-29,Midnight Chase,Action,Late Night,3D,6,310.71,68.6,929.48,1,Weekend,1864.26,929.48,2793.74,Large Group
+T00753,2026-07-07,Golden Hour,Drama,Late Night,Standard 2D,2,187.28,54.7,238.18,0,Weekday,374.56,238.18,612.74,Couple
+T00754,2026-02-05,Echoes of Tomorrow,Sci-Fi,Evening,3D,2,300.99,41.6,0.0,0,Weekday,601.98,0.0,601.98,Couple
+T00755,2026-08-11,The Secret Reef,Animation,Evening,Standard 2D,2,248.78,47.8,225.03,0,Weekday,497.56,225.03,722.59,Couple
+T00756,2025-02-15,Golden Hour,Drama,Matinee,3D,4,331.75,76.2,509.1,1,Weekend,1327.0,509.1,1836.1,Small Group
+T00757,2026-11-03,The Secret Reef,Animation,Matinee,IMAX,2,406.56,74.5,258.74,0,Weekday,813.12,258.74,1071.86,Couple
+T00758,2026-04-08,Echoes of Tomorrow,Sci-Fi,Evening,3D,6,300.61,78.3,955.63,0,Weekday,1803.66,955.63,2759.29,Large Group
+T00759,2026-08-15,Cosmic Horizon,Sci-Fi,Late Night,3D,2,271.39,81.7,170.43,1,Weekend,542.78,170.43,713.21,Couple
+T00760,2025-11-06,Shadow Protocol,Thriller,Matinee,Standard 2D,6,203.66,46.6,0.0,0,Weekday,1221.96,0.0,1221.96,Large Group
+T00761,2025-03-27,Cosmic Horizon,Sci-Fi,Late Night,3D,4,319.72,42.7,400.47,0,Weekday,1278.88,400.47,1679.35,Small Group
+T00762,2025-04-02,Shadow Protocol,Thriller,Evening,3D,4,299.51,63.6,372.82,0,Weekday,1198.04,372.82,1570.86,Small Group
+T00763,2026-10-22,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,2,193.78,35.1,240.84,0,Weekday,387.56,240.84,628.4,Couple
+T00764,2026-11-04,Pixel Kingdom,Animation,Late Night,3D,1,292.69,70.6,130.46,0,Weekday,292.69,130.46,423.15,Solo
+T00765,2025-08-30,Midnight Chase,Action,Late Night,Standard 2D,2,210.47,54.2,361.41,1,Weekend,420.94,361.41,782.35,Couple
+T00766,2025-01-02,Midnight Chase,Action,Evening,IMAX,2,423.04,67.6,206.01,0,Weekday,846.08,206.01,1052.09,Couple
+T00767,2025-08-13,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,1,161.34,71.7,153.01,0,Weekday,161.34,153.01,314.35,Solo
+T00768,2026-08-12,Chasing Laughter,Comedy,Evening,IMAX,3,352.72,54.6,493.17,0,Weekday,1058.16,493.17,1551.33,Small Group
+T00769,2025-04-26,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,275.86,46.7,0.0,1,Weekend,551.72,0.0,551.72,Couple
+T00770,2026-10-28,Shadow Protocol,Thriller,Matinee,IMAX,3,462.79,63.2,393.25,0,Weekday,1388.37,393.25,1781.62,Small Group
+T00771,2025-04-13,Chasing Laughter,Comedy,Evening,3D,3,292.85,88.2,287.26,1,Weekend,878.55,287.26,1165.81,Small Group
+T00772,2025-07-13,The Secret Reef,Animation,Evening,IMAX,1,523.02,89.1,86.57,1,Weekend,523.02,86.57,609.59,Solo
+T00773,2025-06-15,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,6,173.09,74.5,1043.93,1,Weekend,1038.54,1043.93,2082.47,Large Group
+T00774,2025-03-31,Midnight Chase,Action,Evening,3D,1,294.75,81.2,137.96,0,Weekday,294.75,137.96,432.71,Solo
+T00775,2025-05-02,Turbo Drift,Action,Evening,IMAX,2,414.41,81.6,242.17,0,Weekday,828.82,242.17,1070.99,Couple
+T00776,2025-05-23,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,2,189.77,65.0,0.0,0,Weekday,379.54,0.0,379.54,Couple
+T00777,2025-04-16,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,163.29,68.3,367.58,0,Weekday,653.16,367.58,1020.74,Small Group
+T00778,2026-03-04,The Secret Reef,Animation,Late Night,3D,1,314.91,51.4,157.33,0,Weekday,314.91,157.33,472.24,Solo
+T00779,2025-11-01,The Secret Reef,Animation,Evening,3D,2,331.75,100.0,314.72,1,Weekend,663.5,314.72,978.22,Couple
+T00780,2025-11-13,Whispers in the Rain,Drama,Late Night,Standard 2D,3,163.8,20.3,0.0,0,Weekday,491.4,0.0,491.4,Small Group
+T00781,2026-09-27,Whispers in the Rain,Drama,Matinee,Standard 2D,2,284.94,78.5,309.68,1,Weekend,569.88,309.68,879.56,Couple
+T00782,2025-01-09,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,3,235.6,69.8,290.68,0,Weekday,706.8,290.68,997.48,Small Group
+T00783,2025-03-14,Cosmic Horizon,Sci-Fi,Evening,IMAX,5,413.32,77.0,709.31,0,Weekday,2066.6,709.31,2775.91,Small Group
+T00784,2025-12-25,Shadow Protocol,Thriller,Evening,3D,6,254.75,67.0,891.94,0,Weekday,1528.5,891.94,2420.44,Large Group
+T00785,2025-08-11,The Secret Reef,Animation,Evening,IMAX,1,393.34,72.1,92.3,0,Weekday,393.34,92.3,485.64,Solo
+T00786,2026-02-20,Chasing Laughter,Comedy,Late Night,IMAX,2,394.82,76.2,0.0,0,Weekday,789.64,0.0,789.64,Couple
+T00787,2026-07-07,Pixel Kingdom,Animation,Matinee,3D,2,342.22,51.5,173.22,0,Weekday,684.44,173.22,857.66,Couple
+T00788,2026-01-05,Chasing Laughter,Comedy,Evening,Standard 2D,14,225.42,50.3,1847.62,0,Weekday,3155.88,1847.62,5003.5,Large Group
+T00789,2025-09-21,Turbo Drift,Action,Evening,Standard 2D,2,215.07,85.8,220.26,1,Weekend,430.14,220.26,650.4,Couple
+T00790,2025-11-14,Shadow Protocol,Thriller,Matinee,Standard 2D,2,192.15,64.0,153.81,0,Weekday,384.3,153.81,538.11,Couple
+T00791,2025-03-25,Cosmic Horizon,Sci-Fi,Matinee,IMAX,15,489.75,36.9,2095.64,0,Weekday,7346.25,2095.64,9441.89,Large Group
+T00792,2025-11-14,Chasing Laughter,Comedy,Evening,3D,5,359.58,94.3,562.25,0,Weekday,1797.9,562.25,2360.15,Small Group
+T00793,2025-04-21,Midnight Chase,Action,Matinee,Standard 2D,1,179.12,32.6,0.0,0,Weekday,179.12,0.0,179.12,Solo
+T00794,2025-09-08,Pixel Kingdom,Animation,Matinee,Standard 2D,2,191.27,33.5,161.36,0,Weekday,382.54,161.36,543.9,Couple
+T00795,2026-01-18,Turbo Drift,Action,Matinee,3D,2,338.79,53.1,0.0,1,Weekend,677.58,0.0,677.58,Couple
+T00796,2025-01-07,Shadow Protocol,Thriller,Evening,3D,2,308.09,66.0,206.25,0,Weekday,616.18,206.25,822.43,Couple
+T00797,2026-04-04,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,3,288.39,59.6,399.21,1,Weekend,865.17,399.21,1264.38,Small Group
+T00798,2025-03-25,The Secret Reef,Animation,Evening,IMAX,3,379.69,60.1,485.67,0,Weekday,1139.07,485.67,1624.74,Small Group
+T00799,2025-07-27,Starlight Odyssey,Sci-Fi,Late Night,3D,4,292.64,62.7,443.05,1,Weekend,1170.56,443.05,1613.61,Small Group
+T00800,2026-01-25,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,4,198.49,76.7,444.37,1,Weekend,793.96,444.37,1238.33,Small Group
+T00801,2025-11-10,Starlight Odyssey,Sci-Fi,Late Night,IMAX,11,393.55,65.8,1425.79,0,Weekday,4329.05,1425.79,5754.84,Large Group
+T00802,2025-01-22,Golden Hour,Drama,Late Night,Standard 2D,3,192.69,62.9,335.16,0,Weekday,578.07,335.16,913.23,Small Group
+T00803,2026-02-14,Starlight Odyssey,Sci-Fi,Evening,IMAX,2,393.73,100.0,265.27,1,Weekend,787.46,265.27,1052.73,Couple
+T00804,2026-05-30,Office Mayhem,Comedy,Evening,IMAX,3,412.43,100.0,415.78,1,Weekend,1237.29,415.78,1653.07,Small Group
+T00805,2025-05-07,Pixel Kingdom,Animation,Late Night,3D,2,304.11,51.9,264.0,0,Weekday,608.22,264.0,872.22,Couple
+T00806,2025-01-14,Midnight Chase,Action,Matinee,IMAX,1,459.8,37.9,125.04,0,Weekday,459.8,125.04,584.84,Solo
+T00807,2025-01-12,Whispers in the Rain,Drama,Evening,Standard 2D,2,231.11,52.6,172.89,1,Weekend,462.22,172.89,635.11,Couple
+T00808,2025-03-28,Midnight Chase,Action,Evening,IMAX,2,457.19,86.2,195.46,0,Weekday,914.38,195.46,1109.84,Couple
+T00809,2026-06-08,Midnight Chase,Action,Evening,3D,5,257.68,76.1,711.15,0,Weekday,1288.4,711.15,1999.55,Small Group
+T00810,2026-06-21,Echoes of Tomorrow,Sci-Fi,Matinee,3D,2,323.01,60.6,361.16,1,Weekend,646.02,361.16,1007.18,Couple
+T00811,2025-10-28,Pixel Kingdom,Animation,Late Night,IMAX,2,455.33,45.7,0.0,0,Weekday,910.66,0.0,910.66,Couple
+T00812,2025-08-31,Turbo Drift,Action,Evening,IMAX,2,527.97,77.4,305.7,1,Weekend,1055.94,305.7,1361.64,Couple
+T00813,2025-05-02,Cosmic Horizon,Sci-Fi,Evening,IMAX,3,423.8,76.1,229.11,0,Weekday,1271.4,229.11,1500.51,Small Group
+T00814,2025-05-27,Golden Hour,Drama,Late Night,Standard 2D,1,236.4,50.1,88.09,0,Weekday,236.4,88.09,324.49,Solo
+T00815,2026-07-21,Midnight Chase,Action,Evening,IMAX,6,350.71,86.5,458.4,0,Weekday,2104.26,458.4,2562.66,Large Group
+T00816,2025-12-22,Chasing Laughter,Comedy,Late Night,3D,5,350.95,49.6,570.66,0,Weekday,1754.75,570.66,2325.41,Small Group
+T00817,2026-09-23,Turbo Drift,Action,Evening,IMAX,3,377.64,71.1,359.13,0,Weekday,1132.92,359.13,1492.05,Small Group
+T00818,2025-11-05,Echoes of Tomorrow,Sci-Fi,Matinee,3D,3,358.25,65.5,258.29,0,Weekday,1074.75,258.29,1333.04,Small Group
+T00819,2025-10-15,Chasing Laughter,Comedy,Late Night,Standard 2D,1,233.63,22.5,131.27,0,Weekday,233.63,131.27,364.9,Solo
+T00820,2025-11-03,Chasing Laughter,Comedy,Evening,Standard 2D,2,237.43,62.8,272.16,0,Weekday,474.86,272.16,747.02,Couple
+T00821,2026-08-17,Pixel Kingdom,Animation,Late Night,3D,4,322.18,51.0,0.0,0,Weekday,1288.72,0.0,1288.72,Small Group
+T00822,2026-10-24,Echoes of Tomorrow,Sci-Fi,Late Night,IMAX,1,460.62,87.6,113.03,1,Weekend,460.62,113.03,573.65,Solo
+T00823,2026-07-03,Chasing Laughter,Comedy,Late Night,Standard 2D,2,164.64,54.2,306.2,0,Weekday,329.28,306.2,635.48,Couple
+T00824,2025-12-18,Whispers in the Rain,Drama,Evening,3D,3,318.64,57.6,244.21,0,Weekday,955.92,244.21,1200.13,Small Group
+T00825,2025-11-08,Office Mayhem,Comedy,Late Night,Standard 2D,2,253.58,57.9,347.06,1,Weekend,507.16,347.06,854.22,Couple
+T00826,2025-02-28,Starlight Odyssey,Sci-Fi,Evening,IMAX,5,420.79,46.4,755.29,0,Weekday,2103.95,755.29,2859.24,Small Group
+T00827,2026-10-05,Starlight Odyssey,Sci-Fi,Evening,3D,1,258.49,75.0,116.19,0,Weekday,258.49,116.19,374.68,Solo
+T00828,2025-02-04,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,4,190.62,50.9,478.06,0,Weekday,762.48,478.06,1240.54,Small Group
+T00829,2026-03-21,Office Mayhem,Comedy,Matinee,Standard 2D,3,242.24,77.8,414.92,1,Weekend,726.72,414.92,1141.64,Small Group
+T00830,2025-04-03,Chasing Laughter,Comedy,Evening,Standard 2D,4,188.05,54.2,431.85,0,Weekday,752.2,431.85,1184.05,Small Group
+T00831,2025-07-26,Pixel Kingdom,Animation,Late Night,3D,2,377.15,82.0,194.43,1,Weekend,754.3,194.43,948.73,Couple
+T00832,2025-12-19,Pixel Kingdom,Animation,Evening,Standard 2D,3,210.85,46.2,443.83,0,Weekday,632.55,443.83,1076.38,Small Group
+T00833,2025-11-28,Pixel Kingdom,Animation,Evening,Standard 2D,4,191.85,26.5,448.16,0,Weekday,767.4,448.16,1215.56,Small Group
+T00834,2025-06-08,Cosmic Horizon,Sci-Fi,Late Night,IMAX,2,487.96,77.9,174.78,1,Weekend,975.92,174.78,1150.7,Couple
+T00835,2025-01-24,Pixel Kingdom,Animation,Evening,IMAX,2,453.19,67.2,222.83,0,Weekday,906.38,222.83,1129.21,Couple
+T00836,2026-02-08,Pixel Kingdom,Animation,Late Night,3D,3,292.88,58.4,516.2,1,Weekend,878.64,516.2,1394.84,Small Group
+T00837,2026-05-31,Pixel Kingdom,Animation,Matinee,IMAX,4,459.35,86.8,344.54,1,Weekend,1837.4,344.54,2181.94,Small Group
+T00838,2025-12-30,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,2,221.1,59.5,235.61,0,Weekday,442.2,235.61,677.81,Couple
+T00839,2026-01-17,Shadow Protocol,Thriller,Matinee,3D,5,338.8,69.3,853.63,1,Weekend,1694.0,853.63,2547.63,Small Group
+T00840,2026-06-16,The Secret Reef,Animation,Evening,3D,12,333.19,63.8,1644.81,0,Weekday,3998.28,1644.81,5643.09,Large Group
+T00841,2025-06-01,Starlight Odyssey,Sci-Fi,Evening,3D,2,319.74,82.8,256.63,1,Weekend,639.48,256.63,896.11,Couple
+T00842,2026-07-16,The Secret Reef,Animation,Late Night,Standard 2D,4,241.79,40.2,447.93,0,Weekday,967.16,447.93,1415.09,Small Group
+T00843,2026-08-31,The Secret Reef,Animation,Evening,3D,3,288.09,72.8,292.62,0,Weekday,864.27,292.62,1156.89,Small Group
+T00844,2026-09-09,Chasing Laughter,Comedy,Evening,Standard 2D,5,240.77,40.5,524.89,0,Weekday,1203.85,524.89,1728.74,Small Group
+T00845,2026-02-24,Pixel Kingdom,Animation,Matinee,3D,6,289.2,39.1,0.0,0,Weekday,1735.2,0.0,1735.2,Large Group
+T00846,2025-09-07,Pixel Kingdom,Animation,Evening,Standard 2D,2,194.96,65.5,0.0,1,Weekend,389.92,0.0,389.92,Couple
+T00847,2025-04-27,Midnight Chase,Action,Evening,Standard 2D,1,246.8,81.5,0.0,1,Weekend,246.8,0.0,246.8,Solo
+T00848,2026-05-27,Whispers in the Rain,Drama,Matinee,Standard 2D,1,199.78,41.4,91.88,0,Weekday,199.78,91.88,291.66,Solo
+T00849,2026-08-01,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,4,220.98,77.3,0.0,1,Weekend,883.92,0.0,883.92,Small Group
+T00850,2025-12-01,Chasing Laughter,Comedy,Matinee,3D,5,264.82,61.6,680.99,0,Weekday,1324.1,680.99,2005.09,Small Group
+T00851,2026-02-22,The Secret Reef,Animation,Matinee,Standard 2D,2,210.35,51.4,0.0,1,Weekend,420.7,0.0,420.7,Couple
+T00852,2025-10-22,Chasing Laughter,Comedy,Evening,IMAX,1,416.92,81.6,141.93,0,Weekday,416.92,141.93,558.85,Solo
+T00853,2026-01-06,The Secret Reef,Animation,Matinee,Standard 2D,1,207.14,40.1,135.05,0,Weekday,207.14,135.05,342.19,Solo
+T00854,2025-07-05,Shadow Protocol,Thriller,Evening,Standard 2D,4,189.03,80.7,624.91,1,Weekend,756.12,624.91,1381.03,Small Group
+T00855,2025-09-03,The Secret Reef,Animation,Late Night,3D,2,278.02,65.2,188.12,0,Weekday,556.04,188.12,744.16,Couple
+T00856,2026-09-29,Shadow Protocol,Thriller,Evening,Standard 2D,2,251.45,72.4,226.93,0,Weekday,502.9,226.93,729.83,Couple
+T00857,2025-09-25,Starlight Odyssey,Sci-Fi,Late Night,3D,3,262.44,57.4,420.18,0,Weekday,787.32,420.18,1207.5,Small Group
+T00858,2026-10-05,Golden Hour,Drama,Evening,3D,4,333.32,85.2,562.21,0,Weekday,1333.28,562.21,1895.49,Small Group
+T00859,2025-08-25,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,3,235.75,64.3,361.41,0,Weekday,707.25,361.41,1068.66,Small Group
+T00860,2026-06-14,Pixel Kingdom,Animation,Late Night,Standard 2D,3,274.39,65.6,457.91,1,Weekend,823.17,457.91,1281.08,Small Group
+T00861,2026-07-06,Office Mayhem,Comedy,Matinee,Standard 2D,1,186.3,41.4,155.17,0,Weekday,186.3,155.17,341.47,Solo
+T00863,2025-01-21,Midnight Chase,Action,Late Night,Standard 2D,3,182.46,40.4,414.06,0,Weekday,547.38,414.06,961.44,Small Group
+T00864,2026-06-04,Whispers in the Rain,Drama,Matinee,Standard 2D,4,206.55,50.0,359.87,0,Weekday,826.2,359.87,1186.07,Small Group
+T00865,2025-04-10,Golden Hour,Drama,Evening,Standard 2D,6,186.51,60.2,607.45,0,Weekday,1119.06,607.45,1726.51,Large Group
+T00866,2026-04-23,Office Mayhem,Comedy,Matinee,Standard 2D,2,233.43,48.1,192.89,0,Weekday,466.86,192.89,659.75,Couple
+T00867,2026-08-22,Golden Hour,Drama,Evening,3D,1,363.95,87.8,171.49,1,Weekend,363.95,171.49,535.44,Solo
+T00868,2025-10-25,Chasing Laughter,Comedy,Evening,3D,1,295.77,85.1,131.68,1,Weekend,295.77,131.68,427.45,Solo
+T00869,2026-06-10,Golden Hour,Drama,Evening,3D,2,282.27,90.2,259.3,0,Weekday,564.54,259.3,823.84,Couple
+T00870,2025-11-30,Chasing Laughter,Comedy,Evening,Standard 2D,4,228.69,68.7,489.07,1,Weekend,914.76,489.07,1403.83,Small Group
+T00871,2025-01-02,Golden Hour,Drama,Evening,Standard 2D,1,236.03,64.2,128.02,0,Weekday,236.03,128.02,364.05,Solo
+T00872,2026-01-10,Echoes of Tomorrow,Sci-Fi,Matinee,IMAX,2,467.87,73.3,259.07,1,Weekend,935.74,259.07,1194.81,Couple
+T00873,2025-10-20,Golden Hour,Drama,Evening,3D,2,349.28,36.5,165.09,0,Weekday,698.56,165.09,863.65,Couple
+T00874,2026-07-07,The Secret Reef,Animation,Late Night,IMAX,1,472.1,60.7,112.72,0,Weekday,472.1,112.72,584.82,Solo
+T00875,2025-11-14,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,2,167.13,47.8,0.0,0,Weekday,334.26,0.0,334.26,Couple
+T00876,2026-05-17,Golden Hour,Drama,Late Night,3D,2,388.05,70.2,223.18,1,Weekend,776.1,223.18,999.28,Couple
+T00877,2026-01-16,The Secret Reef,Animation,Late Night,3D,2,261.39,54.7,210.55,0,Weekday,522.78,210.55,733.33,Couple
+T00878,2026-09-15,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,4,170.74,63.6,483.58,0,Weekday,682.96,483.58,1166.54,Small Group
+T00879,2025-01-14,The Secret Reef,Animation,Evening,3D,3,261.13,59.6,0.0,0,Weekday,783.39,0.0,783.39,Small Group
+T00880,2026-05-19,Chasing Laughter,Comedy,Matinee,3D,1,251.25,47.1,83.93,0,Weekday,251.25,83.93,335.18,Solo
+T00881,2025-08-19,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,6,214.86,53.4,952.97,0,Weekday,1289.16,952.97,2242.13,Large Group
+T00882,2025-03-25,Turbo Drift,Action,Matinee,Standard 2D,3,257.34,35.3,475.06,0,Weekday,772.02,475.06,1247.08,Small Group
+T00883,2025-05-10,Cosmic Horizon,Sci-Fi,Evening,IMAX,4,454.23,67.9,707.93,1,Weekend,1816.92,707.93,2524.85,Small Group
+T00884,2025-05-25,Starlight Odyssey,Sci-Fi,Evening,IMAX,1,522.18,91.9,107.75,1,Weekend,522.18,107.75,629.93,Solo
+T00885,2025-01-28,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,1,245.85,71.9,91.58,0,Weekday,245.85,91.58,337.43,Solo
+T00886,2025-03-07,Shadow Protocol,Thriller,Evening,Standard 2D,1,214.64,67.3,99.4,0,Weekday,214.64,99.4,314.04,Solo
+T00887,2025-06-12,Office Mayhem,Comedy,Evening,Standard 2D,1,216.95,61.1,121.3,0,Weekday,216.95,121.3,338.25,Solo
+T00888,2025-08-17,Whispers in the Rain,Drama,Evening,3D,2,318.3,97.0,354.72,1,Weekend,636.6,354.72,991.32,Couple
+T00889,2025-09-18,Chasing Laughter,Comedy,Late Night,Standard 2D,5,167.31,61.0,0.0,0,Weekday,836.55,0.0,836.55,Small Group
+T00890,2026-03-25,Turbo Drift,Action,Matinee,IMAX,2,457.05,56.0,315.84,0,Weekday,914.1,315.84,1229.94,Couple
+T00891,2026-02-28,Pixel Kingdom,Animation,Matinee,Standard 2D,2,214.62,64.0,0.0,1,Weekend,429.24,0.0,429.24,Couple
+T00892,2026-04-05,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,3,209.43,78.5,497.89,1,Weekend,628.29,497.89,1126.18,Small Group
+T00893,2026-11-07,Cosmic Horizon,Sci-Fi,Evening,3D,1,348.25,81.0,162.53,1,Weekend,348.25,162.53,510.78,Solo
+T00894,2025-10-28,Office Mayhem,Comedy,Evening,IMAX,3,455.52,87.6,359.13,0,Weekday,1366.56,359.13,1725.69,Small Group
+T00895,2025-10-30,Cosmic Horizon,Sci-Fi,Evening,3D,3,356.49,64.2,0.0,0,Weekday,1069.47,0.0,1069.47,Small Group
+T00896,2025-10-14,Shadow Protocol,Thriller,Evening,Standard 2D,4,237.96,53.0,317.48,0,Weekday,951.84,317.48,1269.32,Small Group
+T00897,2026-01-30,Midnight Chase,Action,Matinee,IMAX,6,353.14,28.9,882.22,0,Weekday,2118.84,882.22,3001.06,Large Group
+T00898,2025-01-10,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,219.99,35.4,329.46,0,Weekday,439.98,329.46,769.44,Couple
+T00899,2026-09-22,Midnight Chase,Action,Evening,IMAX,3,447.36,58.2,427.18,0,Weekday,1342.08,427.18,1769.26,Small Group
+T00900,2025-09-27,Midnight Chase,Action,Evening,Standard 2D,5,256.03,74.5,919.68,1,Weekend,1280.15,919.68,2199.83,Small Group
+T00901,2026-08-15,Cosmic Horizon,Sci-Fi,Late Night,IMAX,4,460.41,64.0,402.14,1,Weekend,1841.64,402.14,2243.78,Small Group
+T00902,2026-08-28,Turbo Drift,Action,Late Night,3D,2,268.6,62.3,270.2,0,Weekday,537.2,270.2,807.4,Couple
+T00903,2025-12-27,Shadow Protocol,Thriller,Evening,Standard 2D,6,210.32,88.3,0.0,1,Weekend,1261.92,0.0,1261.92,Large Group
+T00904,2025-09-14,The Secret Reef,Animation,Late Night,IMAX,1,533.35,78.6,173.02,1,Weekend,533.35,173.02,706.37,Solo
+T00905,2025-05-13,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,5,222.84,47.2,534.31,0,Weekday,1114.2,534.31,1648.51,Small Group
+T00906,2025-10-03,The Secret Reef,Animation,Evening,Standard 2D,1,199.49,62.4,145.43,0,Weekday,199.49,145.43,344.92,Solo
+T00907,2026-11-14,Golden Hour,Drama,Evening,3D,3,319.14,100.0,298.68,1,Weekend,957.42,298.68,1256.1,Small Group
+T00908,2026-05-28,Shadow Protocol,Thriller,Evening,Standard 2D,5,258.3,78.0,707.32,0,Weekday,1291.5,707.32,1998.82,Small Group
+T00909,2025-11-09,Pixel Kingdom,Animation,Evening,3D,2,396.97,65.1,224.3,1,Weekend,793.94,224.3,1018.24,Couple
+T00910,2026-07-30,Starlight Odyssey,Sci-Fi,Matinee,Standard 2D,2,192.58,27.7,163.97,0,Weekday,385.16,163.97,549.13,Couple
+T00911,2025-10-11,Whispers in the Rain,Drama,Evening,Standard 2D,2,263.67,54.6,168.72,1,Weekend,527.34,168.72,696.06,Couple
+T00912,2025-05-01,Office Mayhem,Comedy,Late Night,Standard 2D,11,192.68,34.4,0.0,0,Weekday,2119.48,0.0,2119.48,Large Group
+T00913,2025-04-17,Turbo Drift,Action,Late Night,Standard 2D,4,234.49,51.0,0.0,0,Weekday,937.96,0.0,937.96,Small Group
+T00914,2025-07-23,Midnight Chase,Action,Evening,3D,4,258.76,59.3,450.26,0,Weekday,1035.04,450.26,1485.3,Small Group
+T00915,2025-06-14,Pixel Kingdom,Animation,Evening,IMAX,3,390.62,79.9,528.0,1,Weekend,1171.86,528.0,1699.86,Small Group
+T00916,2025-11-01,The Secret Reef,Animation,Evening,IMAX,4,469.94,100.0,492.99,1,Weekend,1879.76,492.99,2372.75,Small Group
+T00917,2026-05-12,Starlight Odyssey,Sci-Fi,Evening,IMAX,2,367.66,80.4,226.88,0,Weekday,735.32,226.88,962.2,Couple
+T00918,2026-09-24,Whispers in the Rain,Drama,Matinee,Standard 2D,2,172.33,24.5,164.46,0,Weekday,344.66,164.46,509.12,Couple
+T00919,2026-07-10,The Secret Reef,Animation,Evening,Standard 2D,4,174.75,70.8,452.19,0,Weekday,699.0,452.19,1151.19,Small Group
+T00920,2025-06-05,Whispers in the Rain,Drama,Evening,Standard 2D,2,162.97,65.1,195.68,0,Weekday,325.94,195.68,521.62,Couple
+T00921,2026-01-02,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,1,167.17,54.3,145.79,0,Weekday,167.17,145.79,312.96,Solo
+T00922,2026-09-12,Shadow Protocol,Thriller,Evening,3D,1,352.64,75.2,90.01,1,Weekend,352.64,90.01,442.65,Solo
+T00923,2025-09-08,The Secret Reef,Animation,Evening,Standard 2D,1,236.36,56.8,102.06,0,Weekday,236.36,102.06,338.42,Solo
+T00924,2025-11-30,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,5,289.31,51.3,566.21,1,Weekend,1446.55,566.21,2012.76,Small Group
+T00925,2026-10-04,Midnight Chase,Action,Evening,IMAX,2,378.65,100.0,239.33,1,Weekend,757.3,239.33,996.63,Couple
+T00926,2026-05-26,Whispers in the Rain,Drama,Evening,3D,4,346.91,54.0,313.66,0,Weekday,1387.64,313.66,1701.3,Small Group
+T00927,2025-10-20,Pixel Kingdom,Animation,Matinee,Standard 2D,2,212.75,34.6,0.0,0,Weekday,425.5,0.0,425.5,Couple
+T00928,2025-01-20,Shadow Protocol,Thriller,Evening,Standard 2D,2,242.48,48.4,329.69,0,Weekday,484.96,329.69,814.65,Couple
+T00929,2025-10-09,Turbo Drift,Action,Late Night,Standard 2D,2,245.66,69.6,201.63,0,Weekday,491.32,201.63,692.95,Couple
+T00930,2025-01-01,Starlight Odyssey,Sci-Fi,Evening,IMAX,4,479.87,66.0,566.22,0,Weekday,1919.48,566.22,2485.7,Small Group
+T00931,2025-04-29,Office Mayhem,Comedy,Matinee,Standard 2D,3,254.98,56.3,347.98,0,Weekday,764.94,347.98,1112.92,Small Group
+T00932,2025-02-04,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,5,215.48,58.7,813.78,0,Weekday,1077.4,813.78,1891.18,Small Group
+T00933,2025-07-17,Whispers in the Rain,Drama,Late Night,Standard 2D,3,194.1,38.1,286.33,0,Weekday,582.3,286.33,868.63,Small Group
+T00934,2026-04-30,Starlight Odyssey,Sci-Fi,Matinee,3D,3,355.81,39.9,0.0,0,Weekday,1067.43,0.0,1067.43,Small Group
+T00935,2025-02-28,Whispers in the Rain,Drama,Late Night,Standard 2D,3,214.74,40.5,368.47,0,Weekday,644.22,368.47,1012.69,Small Group
+T00936,2025-06-10,Shadow Protocol,Thriller,Late Night,IMAX,6,359.0,62.1,603.72,0,Weekday,2154.0,603.72,2757.72,Large Group
+T00937,2025-07-25,Shadow Protocol,Thriller,Evening,IMAX,4,439.99,81.2,469.33,0,Weekday,1759.96,469.33,2229.29,Small Group
+T00938,2025-01-12,Midnight Chase,Action,Late Night,IMAX,1,492.61,73.3,146.76,1,Weekend,492.61,146.76,639.37,Solo
+T00939,2026-05-05,Cosmic Horizon,Sci-Fi,Late Night,Standard 2D,3,225.32,41.9,432.74,0,Weekday,675.96,432.74,1108.7,Small Group
+T00940,2025-10-03,Starlight Odyssey,Sci-Fi,Late Night,IMAX,3,398.87,52.4,425.21,0,Weekday,1196.61,425.21,1621.82,Small Group
+T00941,2025-08-30,Turbo Drift,Action,Evening,3D,4,402.66,67.7,359.21,1,Weekend,1610.64,359.21,1969.85,Small Group
+T00942,2025-08-04,Echoes of Tomorrow,Sci-Fi,Matinee,Standard 2D,2,223.04,29.7,218.95,0,Weekday,446.08,218.95,665.03,Couple
+T00943,2025-09-08,Whispers in the Rain,Drama,Matinee,3D,5,282.22,63.9,562.64,0,Weekday,1411.1,562.64,1973.74,Small Group
+T00944,2025-05-06,Shadow Protocol,Thriller,Evening,Standard 2D,6,197.35,52.7,632.67,0,Weekday,1184.1,632.67,1816.77,Large Group
+T00945,2025-08-05,Whispers in the Rain,Drama,Matinee,Standard 2D,2,227.0,39.7,172.41,0,Weekday,454.0,172.41,626.41,Couple
+T00946,2025-11-02,Starlight Odyssey,Sci-Fi,Evening,3D,5,277.43,74.0,699.69,1,Weekend,1387.15,699.69,2086.84,Small Group
+T00947,2025-07-04,Whispers in the Rain,Drama,Late Night,Standard 2D,1,231.39,44.2,86.81,0,Weekday,231.39,86.81,318.2,Solo
+T00948,2025-02-08,Turbo Drift,Action,Late Night,3D,1,330.13,75.5,147.81,1,Weekend,330.13,147.81,477.94,Solo
+T00949,2025-08-11,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,1,175.15,53.2,0.0,0,Weekday,175.15,0.0,175.15,Solo
+T00950,2025-07-03,Starlight Odyssey,Sci-Fi,Late Night,IMAX,1,411.86,65.2,146.59,0,Weekday,411.86,146.59,558.45,Solo
+T00951,2026-05-10,The Secret Reef,Animation,Late Night,IMAX,4,492.88,96.0,0.0,1,Weekend,1971.52,0.0,1971.52,Small Group
+T00952,2026-03-03,Shadow Protocol,Thriller,Evening,IMAX,1,350.76,64.2,134.23,0,Weekday,350.76,134.23,484.99,Solo
+T00953,2025-06-27,The Secret Reef,Animation,Matinee,Standard 2D,2,226.85,39.7,212.36,0,Weekday,453.7,212.36,666.06,Couple
+T00954,2026-03-04,Cosmic Horizon,Sci-Fi,Evening,Standard 2D,1,257.26,66.7,0.0,0,Weekday,257.26,0.0,257.26,Solo
+T00955,2025-10-21,Shadow Protocol,Thriller,Evening,3D,2,316.75,84.0,175.69,0,Weekday,633.5,175.69,809.19,Couple
+T00956,2025-05-31,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,1,186.11,60.1,141.37,1,Weekend,186.11,141.37,327.48,Solo
+T00957,2026-01-19,Midnight Chase,Action,Evening,Standard 2D,3,246.76,38.6,359.23,0,Weekday,740.28,359.23,1099.51,Small Group
+T00958,2026-09-30,Echoes of Tomorrow,Sci-Fi,Matinee,3D,1,275.58,52.0,117.35,0,Weekday,275.58,117.35,392.93,Solo
+T00959,2025-11-04,Midnight Chase,Action,Evening,3D,4,316.85,64.8,605.1,0,Weekday,1267.4,605.1,1872.5,Small Group
+T00960,2025-12-02,Echoes of Tomorrow,Sci-Fi,Late Night,IMAX,4,406.37,71.4,443.99,0,Weekday,1625.48,443.99,2069.47,Small Group
+T00961,2026-01-10,Shadow Protocol,Thriller,Evening,Standard 2D,1,204.53,81.6,116.19,1,Weekend,204.53,116.19,320.72,Solo
+T00962,2025-01-08,Midnight Chase,Action,Late Night,Standard 2D,5,234.28,47.6,811.16,0,Weekday,1171.4,811.16,1982.56,Small Group
+T00963,2025-12-07,Starlight Odyssey,Sci-Fi,Late Night,Standard 2D,1,242.81,76.6,124.26,1,Weekend,242.81,124.26,367.07,Solo
+T00964,2025-05-09,Midnight Chase,Action,Late Night,IMAX,2,363.7,54.8,221.17,0,Weekday,727.4,221.17,948.57,Couple
+T00965,2026-10-31,Office Mayhem,Comedy,Late Night,IMAX,1,476.04,81.5,141.24,1,Weekend,476.04,141.24,617.28,Solo
+T00966,2025-12-18,Pixel Kingdom,Animation,Late Night,IMAX,2,376.37,48.4,0.0,0,Weekday,752.74,0.0,752.74,Couple
+T00967,2025-12-24,Whispers in the Rain,Drama,Evening,IMAX,3,357.87,73.5,458.55,0,Weekday,1073.61,458.55,1532.16,Small Group
+T00968,2026-06-01,Chasing Laughter,Comedy,Matinee,3D,4,258.88,34.5,642.12,0,Weekday,1035.52,642.12,1677.64,Small Group
+T00969,2026-05-10,Midnight Chase,Action,Evening,3D,8,405.31,68.6,0.0,1,Weekend,3242.48,0.0,3242.48,Large Group
+T00970,2025-03-27,Pixel Kingdom,Animation,Evening,Standard 2D,4,252.2,79.5,369.68,0,Weekday,1008.8,369.68,1378.48,Small Group
+T00971,2025-06-24,Midnight Chase,Action,Evening,3D,13,271.46,44.1,1422.87,0,Weekday,3528.98,1422.87,4951.85,Large Group
+T00972,2025-07-12,The Secret Reef,Animation,Evening,3D,4,378.52,79.4,595.16,1,Weekend,1514.08,595.16,2109.24,Small Group
+T00973,2025-11-07,Whispers in the Rain,Drama,Late Night,3D,2,306.0,64.9,199.45,0,Weekday,612.0,199.45,811.45,Couple
+T00974,2025-04-29,Whispers in the Rain,Drama,Late Night,IMAX,1,466.16,89.7,142.12,0,Weekday,466.16,142.12,608.28,Solo
+T00975,2025-08-06,Pixel Kingdom,Animation,Late Night,IMAX,1,398.97,65.1,101.36,0,Weekday,398.97,101.36,500.33,Solo
+T00976,2026-03-03,Pixel Kingdom,Animation,Evening,IMAX,1,409.48,76.8,142.21,0,Weekday,409.48,142.21,551.69,Solo
+T00977,2026-02-18,Echoes of Tomorrow,Sci-Fi,Matinee,IMAX,3,367.95,60.5,326.62,0,Weekday,1103.85,326.62,1430.47,Small Group
+T00978,2025-04-24,Shadow Protocol,Thriller,Matinee,3D,4,263.52,64.7,620.2,0,Weekday,1054.08,620.2,1674.28,Small Group
+T00979,2025-05-25,Starlight Odyssey,Sci-Fi,Evening,Standard 2D,1,248.05,80.2,151.57,1,Weekend,248.05,151.57,399.62,Solo
+T00980,2026-06-22,Cosmic Horizon,Sci-Fi,Matinee,Standard 2D,4,237.73,38.1,537.59,0,Weekday,950.92,537.59,1488.51,Small Group
+T00981,2026-10-10,Midnight Chase,Action,Matinee,3D,3,346.9,81.4,369.53,1,Weekend,1040.7,369.53,1410.23,Small Group
+T00982,2025-10-30,Starlight Odyssey,Sci-Fi,Late Night,3D,5,251.49,49.5,562.64,0,Weekday,1257.45,562.64,1820.09,Small Group
+T00983,2026-08-11,Echoes of Tomorrow,Sci-Fi,Evening,Standard 2D,2,176.22,39.8,317.59,0,Weekday,352.44,317.59,670.03,Couple
+T00984,2025-12-11,Turbo Drift,Action,Evening,IMAX,2,487.89,54.9,211.86,0,Weekday,975.78,211.86,1187.64,Couple
+T00985,2025-01-01,Echoes of Tomorrow,Sci-Fi,Matinee,Standard 2D,5,167.6,42.6,494.32,0,Weekday,838.0,494.32,1332.32,Small Group
+T00986,2025-05-27,Pixel Kingdom,Animation,Evening,Standard 2D,3,227.88,60.2,390.65,0,Weekday,683.64,390.65,1074.29,Small Group
+T00987,2025-10-14,Shadow Protocol,Thriller,Matinee,3D,2,269.37,63.5,158.69,0,Weekday,538.74,158.69,697.43,Couple
+T00988,2026-10-16,Midnight Chase,Action,Late Night,Standard 2D,1,231.67,55.7,0.0,0,Weekday,231.67,0.0,231.67,Solo
+T00989,2025-02-22,Chasing Laughter,Comedy,Evening,Standard 2D,2,247.53,76.0,225.27,1,Weekend,495.06,225.27,720.33,Couple
+T00990,2025-10-31,The Secret Reef,Animation,Evening,Standard 2D,3,186.96,71.1,313.36,0,Weekday,560.88,313.36,874.24,Small Group
+T00991,2025-03-10,Whispers in the Rain,Drama,Evening,IMAX,4,441.67,74.2,397.02,0,Weekday,1766.68,397.02,2163.7,Small Group
+T00992,2025-12-27,The Secret Reef,Animation,Matinee,Standard 2D,1,212.83,45.5,0.0,1,Weekend,212.83,0.0,212.83,Solo
+T00993,2026-08-25,Golden Hour,Drama,Evening,3D,3,330.48,47.9,270.42,0,Weekday,991.44,270.42,1261.86,Small Group
+T00994,2025-08-08,Midnight Chase,Action,Evening,3D,3,266.96,81.3,349.46,0,Weekday,800.88,349.46,1150.34,Small Group
+T00995,2026-07-29,Shadow Protocol,Thriller,Evening,Standard 2D,3,245.56,32.1,0.0,0,Weekday,736.68,0.0,736.68,Small Group
+T00996,2026-08-08,Golden Hour,Drama,Matinee,IMAX,3,447.62,73.6,0.0,1,Weekend,1342.86,0.0,1342.86,Small Group
+T00997,2025-06-10,Chasing Laughter,Comedy,Evening,Standard 2D,4,229.41,94.8,550.57,0,Weekday,917.64,550.57,1468.21,Small Group
+T00998,2026-11-12,The Secret Reef,Animation,Evening,IMAX,2,422.68,79.5,182.24,0,Weekday,845.36,182.24,1027.6,Couple
+T00999,2025-03-30,Shadow Protocol,Thriller,Late Night,3D,5,308.87,68.5,0.0,1,Weekend,1544.35,0.0,1544.35,Small Group
+T01000,2026-08-08,Midnight Chase,Action,Evening,IMAX,1,421.66,69.8,0.0,1,Weekend,421.66,0.0,421.66,Solo
